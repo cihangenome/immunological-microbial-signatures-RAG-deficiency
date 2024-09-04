@@ -1,0 +1,24 @@
+SampleID	set	ForwardFastqFile	Genotype	Age.w	Sex	House ID	Mouse ID	Collection Date	orig.Sample.ID	DNA concentration (ng/ul)	A260/A280	NewGroup	NewMutation	numreads	Description	prenegpos	gensex	animalid2	parents	parentcage
+Wmut_09w_F_592979_2P	pilot	Wmut_09w_F_592979_2P.fastq	W mut	9	F	592979	592979 2P	4/6/18	3	44.7	1.85	W mut	W	43356						
+wildtype_09w_F_592979_LP	pilot	wildtype_09w_F_592979_LP.fastq	wildtype	9	F	592979	592979 LP	4/6/18	2	15.4	1.84	W Het + wildtype	W	29955						
+Wmut_14w_F_631749_2P	pilot	Wmut_14w_F_631749_2P.fastq	W mut	14	F	631749	631749 2P	8/9/18	9	13.5	1.67	W mut	W	39684						
+Wmut_14w_F_631749_LP	pilot	Wmut_14w_F_631749_LP.fastq	W mut	14	F	631749	631749 LP	8/9/18	8	10.1	1.93	W mut	W	44468						
+Wmut_10w_F_642082_RP	pilot	Wmut_10w_F_642082_RP.fastq	W mut	10	F	642082	642082 RP	8/9/18	12	7.9	1.46	W mut	W	45157						
+Wmut_10w_F_656152_2R	pilot	Wmut_10w_F_656152_2R.fastq	W mut	10	F	656152	656152 2R	9/13/18	16	42.7	1.79	W mut	W	42173						
+Wmut_10w_F_656152_RP	pilot	Wmut_10w_F_656152_RP.fastq	W mut	10	F	656152	656152 RP	9/13/18	13	8.3	1.49	W mut	W	52957						
+Wmut_12w_F_656180_2R	pilot	Wmut_12w_F_656180_2R.fastq	W mut	12	F	656180	656180 2R	10/23/18	31	15.8	1.66	W mut	W	51382						
+Wmut_12w_F_656180_LP	pilot	Wmut_12w_F_656180_LP.fastq	W mut	12	F	656180	656180 LP	10/23/18	29	47.1	1.55	W mut	W	55502						
+Wmut_14w_F_676471_2L	pilot	Wmut_14w_F_676471_2L.fastq	W mut	14	F	676471	676471 2L	11/30/18	44	6.4	1.32	W mut	W	19779						
+Wmut_14w_F_676471_2R	pilot	Wmut_14w_F_676471_2R.fastq	W mut	14	F	676471	676471 2R	11/30/18	43	14.8	1.58	W mut	W	41670						
+Wmut_12w_F_676494_RP	pilot	Wmut_12w_F_676494_RP.fastq	W mut	12	F	676494	676494 RP	11/30/18	45	32	1.68	W mut	W	43232						
+wildtype_07w_F_676553_LP	pilot	wildtype_07w_F_676553_LP.fastq	wildtype	7	F	676553	676553 LP	12/6/18	52	38.6	1.68	Q Het + wildtype	Q	55679						
+wildtype_07w_F_676553_RP	pilot	wildtype_07w_F_676553_RP.fastq	wildtype	7	F	676553	676553 RP	12/6/18	51	54.6	1.78	Q Het + wildtype	Q	57424						
+wildtype_12w_F_676528_LP	pilot	wildtype_12w_F_676528_LP.fastq	wildtype	12	F	676528	676528 LP	12/19/18	58	12.2	1.7	W Het + wildtype	W	36423						
+Ig.1.Pre	ivan		wildtype		F	789776	1									pre	wild-type Female	S1	741723/2P	741723
+Ig.2.Pre	ivan		wildtype		F	789776	2									pre	wild-type Female	S2	741723/2P	741723
+Ig.3.Pre	ivan		wildtype		F	789776	3									pre	wild-type Female	S3	741723/LP	741723
+Ig.4.Pre	ivan		wildtype		F	796785	4									pre	wild-type Female	S4	741719/R	741719
+Ig.5.Pre	ivan		wildtype		F	796785	5									pre	wild-type Female	S5	741719/R	741719
+Ig.10.Pre	ivan		W mut		F	758179	10									pre	W/W Female	S10	695694	695694
+Ig.13.Pre	ivan		W mut		F	758181	13									pre	W/W Female	S13	715204	715204
+Ig.14.Pre	ivan		W mut		F	758181	14									pre	W/W Female	S14	715204	715204

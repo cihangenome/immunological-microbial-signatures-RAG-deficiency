@@ -1,5 +1,5 @@
 #' Takes in output of SourceTracker2 and compares abundances of ORAL vs other enterotypes
-#' For human microbiome data.
+#' For human microbiome data. See *exe_SourceTracker2.sh* in this folder.
 #' For figures 3J and supplemental figure 3E
 
 
