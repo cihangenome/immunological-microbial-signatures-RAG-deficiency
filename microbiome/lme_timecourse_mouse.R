@@ -1,10 +1,11 @@
 #' Statistical comparisons of taxa for timecourse/longitudinal mouse results.  Used for 
-#' Figures 
+#' Figures 4A, Supp 4A/B
 
 library(Maaslin2)
 library(magrittr)
 library(ampvis2)
-import::from('~/git/datavis16s_refactor/R/utilities.R', highertax, filterlowabund)
+#' From R package:  https://gitlab.com/pooranis/datavis16s
+import::from('datavis16s/R/utilities.R', highertax, filterlowabund)
 
 
 A <- read.delim('tables/timecourse_mapfile_mouse.txt')
