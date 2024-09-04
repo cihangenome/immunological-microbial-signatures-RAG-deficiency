@@ -1,0 +1,1067 @@
+OTU	1at14w	1at10w	1at3w	1at5w	2at10w	2at14w	2at3w	2at5w	3at5w	3at10w	3at14w	3at3w	4at5w	4at10w	4at14w	4at3w	5at10w	5at14w	5at3w	5at5w	10at3w	10at14w	10at5w	11at10w	11at14w	11at3w	11at5w	12at3w	12at10w	12at14w	12at5w	13at5w	13at10w	13at14w	13at3w	14at10w	14at14w	14at3w	14at5w	Kingdom	Phylum	Class	Order	Family	Genus	Species
+seq1	2312	3143	4426	1358	3678	2109	4065	8412	5543	1195	2093	5304	1524	5060	18969	369	685	1473	355	593	6220	29978	1094	12435	22347	7246	19550	724	7809	9186	27225	2145	6043	31533	9151	3706	7135	18287	2437	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	animalis/murinus
+seq5	3071	600	4024	281	1364	1807	3084	630	164	1682	2378	67	535	1141	1958	783	857	578	566	1605	5580	3855	8996	1130	233	8731	230	22	16784	8637	1106	1737	7240	5742	300	7866	12323	1954	4729	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq7	1882	595	1444	871	1708	1782	1491	779	1597	1494	591	95	1041	1092	2905	506	1771	801	223	1089	2411	4166	6593	4511	4216	6413	538	39	14694	5371	1087	526	2555	7150	176	3478	10298	1207	4095	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq2	1664	1694	3566	2499	1759	1577	1776	899	538	1197	691	3948	2676	2565	2184	2184	356	1384	81	1238	891	91	227	1884	3062	3031	4885	6902	0	3503	2637	2503	3383	1218	2792	4751	4914	3672	1994	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq3	157	795	3046	1723	1473	3746	1445	783	328	347	717	528	2883	6014	1183	2935	7163	2859	2433	2218	2486	0	1266	351	1203	3068	1824	3762	42	2397	2771	4998	2241	3597	1497	644	2496	722	2921	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	
+seq4	3028	728	1338	653	2061	2097	1930	1194	565	2145	1955	487	1326	1990	6044	360	2147	861	17	2967	1528	6639	7454	3143	10875	5057	537	0	0	23	0	0	0	0	19	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	gasseri/taiwanensis
+seq6	19126	2435	2957	1365	3714	2289	1150	1100	1379	1507	0	271	1306	1470	2106	0	1637	1953	147	19044	0	0	215	53	192	0	120	52	0	0	0	0	382	0	123	122	395	461	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq8	0	6886	4488	8482	4357	1801	1790	7355	1950	122	0	82	8642	1805	1118	5885	0	0	11	171	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	
+seq13	908	174	3665	1481	498	1333	3397	1300	3023	749	700	2197	380	390	1600	503	360	452	443	663	50	63	0	63	368	264	196	441	0	1288	337	1394	2818	1135	1648	3195	3004	635	982	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq20	311	466	714	186	553	234	640	1335	824	139	299	812	209	799	2199	0	0	0	0	0	949	3296	168	2026	2361	1240	3210	109	1156	1026	3907	311	872	3508	1427	435	800	2821	364	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq11	2199	1264	1031	762	1057	1437	1107	443	603	1971	2507	4722	39	575	1386	433	1232	854	1775	2439	12	0	395	214	828	1369	521	1840	0	532	1051	0	381	169	1980	140	1163	271	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq9	1117	1063	136	0	267	398	108	81	298	3695	2552	1354	0	144	445	222	5111	4934	5566	1606	0	0	733	488	2531	1153	976	1904	0	0	0	0	0	0	487	0	0	103	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq15	2048	1202	964	613	1029	1311	1033	428	602	1931	2370	4592	0	510	1266	457	1174	882	1818	2125	0	44	381	232	754	1343	479	1858	0	568	924	0	329	190	1866	0	1123	247	29	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq19	330	416	2048	384	902	199	1493	600	1764	217	758	2686	1053	522	1020	705	499	1345	228	550	79	56	27	57	236	402	208	1457	0	1691	276	1186	1002	352	3021	794	784	5094	616	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq22	940	0	38	0	380	1537	0	0	0	0	0	0	0	236	893	0	1668	6951	15304	1256	458	0	112	261	1022	756	222	2313	0	0	0	0	0	0	237	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq16	186	0	401	256	0	0	81	78	142	0	89	228	128	86	112	104	179	252	123	428	0	0	139	1250	2900	242	8464	316	0	4441	4158	816	771	378	310	1481	2491	299	694	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq14	0	0	2634	968	0	0	1381	1049	2242	471	0	1615	1739	923	33	2577	401	908	1157	1107	0	0	0	0	0	0	0	0	0	0	0	2612	2874	1320	66	2270	1322	0	1815	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq17	170	724	1113	569	710	669	2847	703	1005	392	901	318	1429	668	932	2462	163	256	343	586	1332	0	0	41	42	391	36	1050	0	984	380	1804	878	141	1805	601	808	783	1017	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+seq18	0	2241	0	4789	2351	1273	0	3384	47	184	2545	18	4603	280	179	1619	0	6	0	192	0	0	0	0	0	0	0	0	0	0	32	1122	176	121	373	288	995	213	1487	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq30	0	1430	0	1485	1083	730	133	1880	1070	460	1935	310	2350	266	165	926	0	0	0	84	6329	0	0	0	0	30	197	2180	0	0	297	500	44	29	57	151	0	445	1412	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq12	386	171	552	331	303	472	370	264	319	341	162	1226	414	210	261	644	338	704	584	949	73	0	73	265	503	926	627	1315	0	490	3400	1843	1633	524	1604	940	945	749	898	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq24	2807	590	393	257	529	476	318	299	473	645	821	2939	99	283	919	93	1526	1410	1437	1893	20	133	217	266	878	273	874	987	0	1090	280	172	273	48	604	164	288	575	148	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq31	457	0	2296	856	309	851	2068	710	2141	299	396	1697	214	517	1057	348	0	213	284	397	0	0	78	0	278	196	0	257	0	725	222	721	1502	759	579	1667	1731	296	442	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq21	177	69	454	180	0	0	0	0	0	61	0	166	0	0	0	0	158	188	0	295	0	0	0	965	2341	179	6718	240	0	3280	3252	617	554	231	245	1037	1964	264	544	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	acidofaciens
+seq39	26	257	1371	408	745	610	1229	671	1217	390	369	393	1769	366	1212	599	63	296	378	204	93	0	0	0	12	295	0	925	0	0	67	969	1040	569	1630	684	844	2194	514	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq61	1287	0	0	0	0	0	0	0	0	0	1025	0	0	0	0	0	2551	24	0	920	0	5917	1660	3890	575	0	3593	0	23	7	0	0	197	0	0	224	0	0	0	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Erysipelotrichaceae_[G-1]	
+seq36	35	522	765	987	1157	109	319	396	2298	361	394	1934	174	499	653	589	293	796	1470	562	27	0	35	26	96	546	155	1033	0	60	320	501	505	148	1373	360	450	1582	276	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq29	102	440	171	829	1151	986	1626	820	888	105	1480	10	1369	58	420	957	1298	1492	1195	595	719	0	0	0	0	332	3	140	0	0	37	1944	47	163	50	53	141	61	1058	Bacteria	Proteobacteria					
+seq45	597	0	0	0	220	911	0	0	0	0	0	0	0	0	521	0	971	4202	9486	737	280	0	0	0	594	433	0	1351	0	0	16	0	0	0	130	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq42	393	0	295	180	313	366	277	0	287	281	0	0	191	203	601	115	330	147	0	237	506	865	1210	900	916	1348	0	0	2607	1181	201	0	545	1475	0	745	2389	215	729	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq37	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4063	0	4665	4822	0	0	0	290	1516	0	0	223	4237	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq23	0	839	0	0	1045	179	0	0	1219	1364	746	1807	219	1237	1561	119	583	662	1007	241	0	0	0	0	211	223	268	0	0	270	416	122	645	209	615	464	436	1536	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq41	333	283	219	82	169	404	136	283	365	215	496	1239	542	215	354	780	177	793	1361	854	286	0	17	70	75	1173	12	2253	0	0	207	893	487	126	1719	171	395	595	244	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+seq34	601	650	94	1148	423	653	0	222	475	666	623	364	350	658	357	155	834	575	781	1306	360	0	52	13	55	113	46	1365	0	33	326	798	1329	319	14	1242	543	0	410	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq35	919	532	401	265	871	231	364	167	288	679	163	1433	78	467	742	225	339	685	689	1243	0	0	31	70	172	388	257	2893	0	0	288	0	313	172	318	139	598	286	28	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq48	0	1672	986	1993	1054	413	446	1557	399	0	0	0	2091	384	206	1313	0	0	0	0	0	0	0	0	0	0	0	1250	0	0	767	544	332	61	0	280	395	0	450	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	[G-14]
+seq27	0	0	0	0	0	0	0	0	0	0	0	0	70	0	0	13	0	0	0	0	243	4366	164	239	281	0	4471	0	0	5019	0	0	0	453	0	0	1193	0	0	Bacteria	Firmicutes					
+seq38	2910	288	84	71	32	73	86	0	29	77	37	0	35	75	177	43	2529	1731	953	5221	0	0	0	283	1517	0	4	28	0	0	0	0	0	0	19	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	sp.
+seq47	202	387	835	215	382	440	1930	333	359	192	386	267	284	184	436	552	242	425	473	300	1436	0	6	12	63	505	47	1144	0	0	62	725	711	353	481	394	738	283	504	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium	
+seq56	0	0	21	1563	200	0	0	1776	593	0	0	150	175	0	0	2241	0	2283	2172	53	0	0	61	218	293	0	1825	0	0	280	878	700	0	0	40	0	0	0	256	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq40	362	254	391	383	608	414	860	583	1072	326	449	469	531	267	727	503	381	259	76	412	333	173	146	224	159	253	124	226	0	279	302	481	804	485	649	560	512	108	435	Bacteria	Firmicutes					
+seq49	0	1659	0	758	1756	1622	0	993	579	156	93	0	701	394	208	1359	105	561	153	71	0	0	0	0	0	0	0	711	0	0	43	740	51	69	1721	91	65	0	640	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-11]	
+seq44	110	828	541	697	921	632	479	651	414	483	809	36	1090	674	916	1386	235	335	34	388	762	0	0	0	0	73	0	10	0	0	31	854	438	43	0	237	707	0	458	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+seq92	2194	0	0	0	0	8	0	0	0	0	8320	174	0	0	0	0	0	0	0	0	0	678	0	1484	0	17	0	43	916	0	0	0	0	0	323	9	0	1069	0	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	
+seq52	232	381	267	225	576	442	348	151	634	604	516	1808	259	254	570	243	195	276	72	120	0	10	90	120	304	483	990	818	0	1246	236	110	288	72	747	379	406	649	60	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq54	526	309	282	253	396	449	166	281	609	440	398	1699	0	155	645	236	769	850	1684	935	0	0	79	146	752	518	427	774	0	0	428	0	49	19	489	30	96	239	10	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq43	0	0	830	28	1234	0	500	411	586	0	0	0	0	0	0	0	0	0	0	54	1834	0	0	109	0	26	0	0	9	744	245	935	858	417	2666	555	329	799	933	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+seq53	0	1217	19	712	472	0	0	629	933	1211	0	1272	960	113	102	6	0	0	0	29	0	0	0	0	0	0	0	0	0	0	321	184	936	93	2376	404	289	41	1678	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq78	60	99	0	0	0	0	0	0	0	935	399	469	0	0	0	0	0	0	0	0	31	4888	1871	4525	262	0	324	0	0	66	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq32	587	300	416	163	151	239	183	76	234	176	197	337	33	309	275	145	164	612	237	680	68	24	28	285	448	314	1203	962	0	962	477	201	532	177	155	547	954	111	242	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+seq46	0	52	276	386	228	554	110	393	68	43	322	34	847	1049	186	1255	854	574	119	166	147	0	93	69	200	232	326	490	0	242	395	754	68	1751	57	12	47	50	398	Bacteria						
+seq68	437	314	0	0	279	838	0	0	0	147	112	0	0	190	174	0	1495	3816	2396	563	281	0	0	24	37	423	30	579	0	0	0	0	0	0	38	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-11]	
+seq58	39	291	396	134	280	559	2783	501	208	122	609	104	559	84	126	1669	418	326	214	34	1070	0	0	0	0	74	0	50	11	160	0	322	153	90	0	87	126	0	508	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq50	275	0	365	102	69	115	702	49	253	0	0	303	62	106	109	0	0	82	534	532	68	56	75	310	456	968	601	866	0	3271	191	108	208	0	193	245	171	420	143	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq89	0	0	0	0	0	0	0	0	0	568	266	420	0	0	0	0	0	0	0	0	0	4022	1731	4033	246	72	281	0	0	73	0	0	0	0	0	0	36	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq82	0	0	0	1734	1755	1545	0	2771	229	126	1559	430	0	0	0	0	0	0	0	33	0	0	0	0	0	27	0	0	0	0	0	243	19	117	826	19	69	0	113	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq62	0	182	527	368	341	143	3230	414	52	0	0	88	494	36	55	2428	143	145	147	55	587	0	0	0	0	0	37	210	0	0	0	485	71	90	172	73	118	296	406	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-6]	
+seq55	31	462	339	529	551	887	270	836	436	96	296	35	532	114	89	1162	129	377	134	54	795	0	0	8	23	141	0	624	0	491	74	416	75	64	134	240	216	106	508	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-2]	
+seq63	677	129	190	150	771	687	35	130	564	807	318	1191	40	278	743	51	253	839	841	218	0	0	74	126	306	215	294	773	0	0	0	0	0	0	267	0	0	91	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq26	261	207	43	69	400	363	0	501	650	259	647	0	0	0	0	0	0	0	0	82	456	0	18	102	116	499	0	1247	0	0	385	1018	181	21	590	503	313	865	1214	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq80	0	260	734	360	598	357	592	407	68	0	434	20	210	33	88	2175	331	192	586	70	826	0	0	0	0	103	0	275	0	0	60	975	64	113	181	60	45	209	100	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq60	164	159	76	72	73	219	94	44	303	65	74	192	324	264	343	135	29	284	198	145	32	0	68	135	260	666	177	564	0	132	260	397	1248	170	569	930	1021	408	167	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq115	115	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	200	0	0	0	0	9968	64	0	0	0	0	0	41	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq76	807	0	1083	0	336	444	769	0	585	715	436	1962	0	373	531	0	495	329	215	363	0	0	0	0	196	0	151	0	0	0	265	0	0	0	216	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq77	117	274	142	221	128	342	168	114	300	145	174	185	350	277	381	420	59	338	130	112	40	6	0	0	44	138	0	276	0	225	183	904	573	39	985	581	718	661	459	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+seq70	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	609	0	1739	894	0	0	0	0	747	0	0	0	5764	0	0	21	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq59	810	678	0	586	579	870	0	408	476	566	215	0	105	275	688	126	470	392	303	1446	0	0	0	0	29	34	0	0	0	0	0	0	207	132	0	0	194	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq51	106	126	85	164	112	216	410	253	79	26	106	145	165	0	36	347	91	113	637	48	223	107	383	207	246	130	924	209	406	1601	929	64	40	53	200	66	125	224	126	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq93	498	108	85	81	185	235	74	65	378	571	165	1847	67	98	490	75	153	385	1030	342	13	0	0	0	44	280	54	295	0	0	54	139	164	18	647	81	51	336	69	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	intestinale
+seq85	0	373	0	311	863	581	0	451	410	88	716	0	748	156	187	660	30	144	0	46	0	0	0	0	0	0	0	340	0	0	0	510	218	0	299	280	0	202	1540	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq87	309	76	66	49	72	388	89	48	346	469	264	576	41	103	329	55	523	357	884	507	17	22	0	67	216	702	110	540	0	129	253	80	188	77	194	134	296	203	126	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq65	0	253	590	112	354	200	308	156	188	154	389	424	202	0	108	631	0	0	0	60	772	0	0	0	72	456	43	31	0	0	465	981	105	71	146	193	137	0	1273	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq83	299	82	259	93	179	288	215	75	272	105	73	151	735	155	846	90	72	108	253	138	69	0	0	0	0	42	0	0	0	237	0	369	595	0	643	680	509	754	361	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq64	198	83	31	28	153	87	47	0	72	239	168	804	0	93	153	9	22	36	46	133	0	0	565	383	590	83	1338	230	0	827	77	27	299	27	379	168	239	846	0	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseriaceae_[G-1]	
+seq90	0	364	0	61	0	0	0	0	0	1174	721	402	0	0	0	0	1691	1521	1781	658	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq75	0	637	0	0	915	308	0	0	94	49	423	0	1519	0	38	1841	973	920	158	142	0	0	0	0	0	0	0	0	0	0	64	0	0	0	203	0	0	0	31	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq111	201	0	695	363	0	205	781	340	306	228	0	0	0	0	548	0	134	155	77	0	0	0	0	0	0	0	0	94	0	245	0	366	791	148	698	918	531	188	258	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq91	176	69	176	116	140	138	299	67	0	195	0	1541	54	142	305	35	270	234	532	598	0	0	0	56	138	507	61	1171	0	0	141	0	189	0	194	48	139	242	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq88	0	551	255	378	324	561	123	399	532	182	421	79	260	139	173	281	230	310	204	28	212	0	0	0	0	165	0	642	0	0	29	395	71	29	155	148	168	25	454	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq69	27	150	83	64	65	94	121	7	146	149	88	26	124	254	71	92	134	262	29	255	0	0	81	280	819	1073	830	67	0	0	662	21	429	21	607	151	432	105	25	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	sp.
+seq73	389	173	0	63	170	348	92	42	0	263	207	794	91	272	404	0	441	529	101	397	0	0	0	108	399	150	82	283	0	584	141	0	0	25	0	208	921	36	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq152	0	0	0	0	0	0	0	0	29	1189	4158	0	107	59	169	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	904	0	0	987	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	[G-14]
+seq57	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	772	0	0	0	0	3312	0	0	0	0	42	0	0	0	0	589	906	0	91	52	98	182	127	1308	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-8]	
+seq96	47	192	207	662	153	246	316	644	105	64	122	153	326	132	88	276	373	365	1379	45	259	0	0	0	0	46	0	358	0	0	0	68	54	0	150	65	0	0	247	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-3]	
+seq157	56	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1028	0	741	27	0	0	0	3850	1354	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq94	156	199	172	114	233	259	219	84	256	208	181	460	174	103	211	177	137	122	137	488	0	0	0	0	0	0	0	381	0	142	162	445	307	138	414	129	323	126	171	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq79	79	579	45	287	458	594	18	299	311	109	369	0	554	107	89	84	172	179	123	43	325	0	0	0	0	79	10	168	0	0	187	234	83	44	271	81	189	169	282	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-2]	
+seq67	0	0	0	0	0	0	0	0	0	0	0	0	0	105	116	653	0	0	13	62	2835	0	0	0	0	0	0	0	0	0	524	870	129	97	0	0	0	0	1101	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-8]	
+seq122	178	249	155	108	316	326	175	0	237	214	223	448	0	156	446	0	125	149	206	190	0	0	0	37	160	350	0	796	0	0	0	0	107	0	675	156	0	302	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq103	0	26	212	27	37	18	1777	60	0	0	0	19	78	0	0	1413	17	0	146	0	249	0	0	0	0	18	43	779	120	736	349	55	21	0	20	27	0	41	143	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-6]	
+seq95	0	539	685	1117	512	223	752	220	393	136	174	253	368	69	0	172	0	0	0	10	0	0	0	0	0	0	0	101	0	0	57	31	23	23	50	112	34	101	112	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq98	183	146	24	81	173	195	67	44	132	322	210	569	44	161	280	48	258	161	181	303	0	32	0	97	305	166	76	437	0	382	136	92	187	106	127	116	213	78	70	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq124	0	685	617	948	454	414	852	668	161	0	45	0	921	38	38	24	0	0	0	23	0	0	0	0	0	0	0	0	0	0	74	38	0	30	0	0	32	0	43	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-11]	
+seq127	0	167	888	526	252	281	898	197	0	0	0	17	294	142	92	1224	508	464	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq104	0	80	0	94	390	47	454	108	513	155	76	0	338	68	202	286	0	0	0	39	0	0	0	0	0	0	0	0	0	0	0	742	0	0	1132	70	0	238	883	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq99	0	453	65	225	316	195	140	128	293	161	184	0	317	112	84	622	195	402	565	53	196	0	0	0	17	26	27	122	0	0	115	176	54	0	150	109	114	0	152	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq118	229	91	102	61	142	228	73	40	292	194	117	321	101	121	230	65	164	222	360	226	0	0	0	0	48	161	38	400	0	120	54	240	245	75	311	92	164	300	130	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq97	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	6	0	136	82	286	915	364	0	0	647	488	298	629	102	0	495	670	430	144	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+seq129	0	324	0	724	639	556	0	533	200	0	559	0	0	0	0	0	0	0	0	0	0	0	0	0	0	39	0	53	0	0	0	0	0	0	601	0	0	1424	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq126	6	1979	27	748	448	455	0	1357	119	0	0	0	0	246	0	51	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq137	195	0	238	0	0	0	254	0	207	0	158	1659	0	0	216	0	299	235	549	545	0	0	0	0	0	431	0	402	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq120	38	125	221	278	257	175	658	186	164	98	310	58	211	80	105	781	246	263	213	41	0	0	0	0	0	0	0	58	0	0	19	244	31	0	0	63	61	0	354	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq114	0	0	0	0	0	571	0	0	0	0	57	0	0	0	0	0	0	0	0	0	1903	0	0	0	0	141	44	2485	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq102	0	183	260	161	127	227	87	166	176	80	159	160	169	98	110	208	140	125	63	41	224	0	0	17	0	97	68	307	0	658	222	154	66	39	149	103	106	75	78	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-3]	
+seq164	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	49	0	353	0	0	0	0	1460	3150	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq112	164	100	199	91	146	156	88	56	271	184	158	297	71	70	205	114	185	198	238	277	0	0	10	24	38	33	19	253	0	0	68	121	222	98	361	102	128	189	57	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq121	0	169	747	83	632	579	297	139	0	0	49	0	848	152	57	136	0	147	0	21	128	0	0	0	0	0	0	0	0	0	35	137	65	5	39	351	0	126	42	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq119	0	695	129	382	354	491	0	330	292	85	268	0	406	107	58	332	102	240	27	31	37	0	0	0	0	0	0	26	0	0	56	197	20	0	47	41	72	0	131	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq128	0	476	8	266	146	0	0	208	317	522	0	453	294	32	29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	112	48	292	23	904	96	112	21	518	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq117	128	194	21	153	197	214	0	111	225	130	174	200	192	144	229	84	208	133	169	140	35	0	7	30	80	113	57	381	0	88	0	140	165	16	315	143	117	0	94	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-4]	[G-4]
+seq110	353	402	0	294	290	418	0	205	240	362	129	0	0	120	306	58	198	225	157	680	0	0	0	0	0	0	0	0	0	0	0	0	0	73	0	0	81	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq105	62	196	353	226	680	249	586	280	307	92	145	150	266	0	39	0	0	81	84	0	261	0	0	0	0	59	46	48	0	0	91	55	24	0	16	30	0	0	70	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq144	0	0	0	0	0	0	0	0	0	0	0	0	45	0	0	292	54	51	0	1681	589	47	799	20	15	500	66	6	67	32	74	14	17	15	0	57	22	0	33	Bacteria	Firmicutes					
+seq138	7	56	240	69	93	149	230	54	32	0	113	105	133	0	0	1592	25	0	244	16	368	0	0	10	20	25	25	24	0	0	109	137	22	28	114	19	37	141	125	Bacteria	Proteobacteria					
+seq161	24	97	331	287	217	117	85	256	67	0	65	22	376	0	0	1112	212	0	409	0	88	0	0	0	0	23	0	153	0	0	0	123	0	0	89	0	0	26	131	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq204	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1591	0	411	62	0	0	0	0	2186	0	0	0	56	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq113	0	305	254	290	212	137	199	336	199	0	88	0	257	69	91	245	0	0	0	25	102	0	0	0	0	0	0	0	0	0	45	394	51	0	133	0	56	94	598	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-12]	[G-12]
+seq125	11	253	68	91	231	330	58	165	98	65	282	61	312	136	141	233	77	126	19	5	177	0	0	18	18	8	49	273	0	45	88	96	50	24	131	92	65	25	210	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq134	362	359	0	305	260	412	0	209	357	623	0	0	0	0	373	0	248	0	0	589	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq202	0	0	0	0	0	0	0	0	0	0	0	0	1759	156	133	1428	231	206	0	85	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq132	0	170	0	0	76	91	0	37	315	0	44	0	0	62	37	39	114	191	1386	48	106	0	0	20	0	196	28	167	21	356	93	0	0	0	159	39	46	112	22	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-3]	
+seq224	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	212	0	1041	0	218	2260	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq130	129	0	66	89	44	0	34	0	90	54	0	14	27	0	18	16	151	88	334	1808	0	0	0	19	45	61	0	0	0	0	102	39	69	41	48	51	150	38	23	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq162	126	79	43	178	234	300	115	206	103	143	375	11	83	51	103	185	201	144	99	158	50	0	0	23	0	0	0	127	0	0	0	80	39	26	238	0	0	63	55	Bacteria						
+seq107	0	128	146	554	94	0	0	101	85	0	0	52	150	115	0	51	586	182	0	332	0	0	0	33	0	0	0	121	0	156	545	88	0	0	0	0	0	0	53	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq106	0	201	0	0	237	45	0	0	0	0	111	52	955	26	28	141	0	0	0	44	89	0	0	0	0	0	0	0	0	0	188	539	23	0	150	43	67	0	606	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq150	0	103	553	56	111	48	604	81	77	0	119	0	156	0	0	349	100	50	330	16	10	0	0	0	0	0	0	124	0	0	117	187	0	0	34	23	23	85	187	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-6]	
+seq143	0	339	0	354	255	190	0	0	274	0	480	0	0	0	0	0	0	0	0	0	1527	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq192	0	0	0	0	0	0	0	0	305	150	1196	330	0	0	0	0	0	0	0	29	0	0	0	0	0	0	0	232	0	0	0	458	22	4	526	0	0	50	110	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-10]	
+seq149	0	195	133	228	193	129	73	36	0	41	38	379	0	0	0	0	0	0	0	0	817	0	0	0	0	116	105	431	0	0	69	19	30	17	0	46	224	0	78	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq238	41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3249	0	0	0	52	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq123	117	64	47	75	116	144	32	53	107	132	74	383	97	95	173	32	138	161	0	109	0	0	0	81	174	85	114	192	0	0	0	0	0	0	53	109	336	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq176	0	157	106	238	112	141	0	288	177	0	156	171	262	0	0	249	0	194	58	19	177	0	0	0	0	0	0	238	0	0	0	54	0	0	188	0	21	109	165	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	[G-14]
+seq190	0	89	0	141	129	75	0	250	250	0	260	0	304	0	123	106	0	0	81	0	0	0	0	0	0	0	0	0	0	0	24	118	185	0	882	56	0	0	168	Bacteria	Firmicutes					
+seq177	0	62	0	23	86	138	0	0	139	0	42	0	959	0	58	126	189	179	63	38	43	0	0	0	0	0	0	0	0	0	180	195	31	0	0	29	86	0	558	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-7]	
+seq136	45	63	52	87	76	82	60	0	48	44	284	78	336	29	25	413	63	76	12	43	209	0	0	0	16	55	20	134	0	0	26	218	61	24	271	0	45	107	116	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq146	0	76	0	127	239	93	68	113	90	39	141	0	317	47	81	168	199	159	35	85	131	0	0	0	0	21	28	0	0	0	167	194	89	83	55	64	52	27	163	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-6]	
+seq195	0	0	0	0	0	0	0	0	0	66	0	0	0	0	0	0	0	0	0	0	72	0	457	0	0	246	0	0	714	199	0	0	159	236	0	186	679	0	111	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae		
+seq181	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	199	430	0	0	0	0	106	0	2380	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq33	130	36	16	23	24	44	5	0	23	40	33	31	0	25	62	0	55	116	259	76	0	18	31	211	285	110	234	136	0	748	42	28	67	27	0	39	64	17	33	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	goldsteinii
+seq133	34	48	0	26	38	119	0	27	0	42	81	53	68	52	43	113	37	131	157	75	161	11	20	40	76	376	238	45	0	187	227	78	21	0	49	69	101	0	211	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq196	0	409	71	103	77	166	58	104	10	67	24	157	31	46	0	152	14	211	311	67	301	0	0	0	0	0	0	400	0	0	0	0	0	0	74	15	0	102	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-9]	
+seq182	0	164	67	0	269	323	0	0	473	0	122	50	89	0	202	0	0	0	57	18	0	0	0	0	0	0	0	0	0	0	0	193	105	0	267	120	75	293	72	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq158	76	59	90	58	72	0	169	37	73	173	0	291	0	0	0	0	119	0	222	99	0	0	0	54	0	140	114	335	0	245	0	0	55	0	357	0	0	115	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq163	26	356	0	183	201	297	0	100	112	64	152	19	95	62	40	34	116	247	284	0	0	0	0	0	0	11	0	316	0	0	0	65	0	0	76	18	17	0	57	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-2]	[G-2]
+seq172	12	0	18	0	0	0	46	0	25	24	0	160	0	37	42	36	45	0	54	30	204	179	0	64	166	299	73	134	222	147	0	87	47	34	275	69	248	105	13	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	
+seq175	0	175	0	156	264	369	48	220	482	126	0	0	0	0	208	61	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	194	0	0	233	0	0	356	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq156	43	185	61	203	144	224	0	217	136	0	131	0	151	0	0	141	91	173	68	0	124	0	0	0	0	0	0	542	0	0	0	91	0	0	72	0	0	0	88	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-3]	
+seq165	0	0	0	0	0	0	0	0	0	0	0	0	253	0	26	0	184	143	0	58	363	0	0	23	0	695	23	11	0	0	799	36	0	0	16	0	0	20	149	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq116	24	0	23	17	49	53	44	15	19	0	45	21	54	17	0	172	73	44	33	16	0	62	10	160	65	0	75	23	0	1110	225	72	21	0	92	46	49	24	30	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq160	0	225	82	159	226	185	78	130	168	0	185	66	188	24	38	272	0	86	48	0	96	0	0	0	0	39	0	252	0	0	0	64	0	0	49	0	0	38	66	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq184	0	0	0	0	0	143	229	0	0	0	125	441	37	0	79	40	0	99	359	0	0	0	38	0	143	0	0	506	0	109	126	41	0	0	179	0	54	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq166	17	283	65	100	132	166	8	170	235	48	172	54	164	82	60	91	0	0	0	0	115	0	0	0	0	28	0	100	0	0	20	33	0	9	214	57	29	26	258	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq167	30	125	109	151	149	65	332	141	85	0	93	0	100	0	0	153	143	36	163	33	127	0	0	0	0	88	0	0	0	0	178	119	0	0	57	0	0	49	200	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq169	0	142	152	156	78	153	49	79	0	24	61	127	127	35	0	73	6	85	14	0	80	0	0	0	0	20	0	874	0	0	82	0	0	0	0	22	0	136	136	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq207	45	0	74	0	0	0	0	0	0	103	0	0	0	100	161	0	0	0	0	0	0	158	160	127	185	209	0	0	256	189	0	0	182	254	0	0	296	181	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq221	0	59	225	192	109	74	69	153	0	0	0	0	233	21	0	761	103	0	279	0	63	0	0	0	0	0	0	118	0	0	0	67	0	0	74	0	0	0	67	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq170	0	312	50	166	492	425	49	205	201	37	113	43	23	138	252	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Dubosiella	
+seq145	0	117	114	105	166	118	63	171	125	0	93	46	224	0	0	193	79	133	0	0	40	0	0	0	55	0	0	91	0	0	75	72	0	0	83	43	95	67	98	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-3]	
+seq151	35	80	0	32	14	25	0	20	168	70	100	227	22	36	72	576	45	106	181	139	0	0	0	0	0	80	0	0	0	0	0	78	116	0	75	0	90	35	26	Bacteria	Firmicutes					
+seq216	0	0	0	0	0	0	0	0	460	0	0	718	319	0	254	0	0	329	0	0	0	0	0	0	0	0	0	361	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq171	0	113	435	133	103	114	235	202	0	0	0	0	94	58	0	613	0	95	0	25	0	0	0	0	20	0	0	0	0	0	0	84	0	0	0	0	0	34	62	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-11]	
+seq209	0	0	0	0	57	0	0	0	96	0	0	0	0	74	157	0	0	0	0	0	76	183	0	163	237	140	0	0	167	150	91	0	0	353	0	0	238	140	77	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq267	200	75	0	0	31	88	0	0	0	240	76	0	0	41	17	0	641	403	424	149	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-7]	[G-7]
+seq174	0	99	83	12	0	16	6	14	19	121	76	91	0	24	0	22	442	86	0	0	62	0	0	0	0	0	0	138	0	0	0	0	46	0	336	0	0	579	75	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-11]	
+seq241	72	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	329	0	0	170	0	0	519	187	0	0	109	157	0	165	499	0	120	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq147	0	140	16	129	50	41	103	126	69	49	0	77	0	0	20	0	0	0	8	0	0	0	4	28	53	79	31	0	0	0	72	134	37	0	0	0	0	942	95	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-11]	
+seq188	0	184	170	105	68	141	26	198	86	0	60	21	190	34	22	172	0	77	0	0	236	0	0	0	13	0	51	206	0	162	21	0	0	0	0	0	19	0	28	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq211	0	137	83	253	0	0	52	248	186	0	0	133	217	45	0	190	0	169	0	0	155	0	0	0	0	0	0	175	0	0	0	0	24	0	167	38	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	
+seq180	0	0	0	0	0	368	0	90	310	0	0	0	40	0	0	67	0	0	0	0	0	0	0	0	0	0	0	717	0	0	0	0	0	0	615	0	0	0	51	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq206	0	186	0	182	113	201	0	120	138	71	160	0	250	26	28	376	0	0	0	16	0	0	0	0	0	0	0	0	0	0	24	160	6	0	62	0	7	0	88	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-6]	[G-6]
+seq219	49	0	45	0	35	25	0	0	97	69	0	0	0	0	158	0	0	0	0	0	51	187	0	160	175	172	49	0	189	116	0	0	95	201	0	0	205	133	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq183	0	0	0	0	0	0	0	0	0	0	20	0	0	0	20	674	0	44	1017	0	0	0	0	47	0	0	0	14	0	0	0	0	153	0	56	98	58	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq168	83	100	51	125	111	121	82	100	0	16	95	31	96	28	21	124	151	149	275	29	29	0	0	12	13	20	0	40	0	0	26	71	19	0	27	18	21	30	61	Bacteria	Firmicutes	Clostridia	Eubacteriales	Peptococcaceae	Peptococcaceae_[G-1]	[G-1]
+seq225	0	128	0	298	195	257	25	266	123	64	84	0	151	127	45	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	57	0	0	0	314	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq185	0	419	19	99	431	110	0	160	0	0	0	0	0	109	44	44	0	0	0	0	0	0	0	0	0	0	0	651	0	0	0	0	0	0	0	0	0	0	72	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	
+seq135	75	74	36	84	47	49	34	28	39	0	0	0	87	29	0	85	197	180	228	291	0	0	0	0	0	0	0	0	0	0	0	154	24	0	19	47	34	176	128	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-3]	
+seq155	89	50	32	40	76	60	0	25	33	0	59	24	75	0	0	200	401	244	185	82	42	0	0	0	9	0	0	35	0	0	47	47	0	0	28	0	45	52	59	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq109	0	43	0	26	152	99	0	26	0	51	253	8	111	0	23	30	36	72	0	28	0	0	40	0	0	0	140	28	5	209	34	126	17	5	260	47	0	0	140	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq187	0	0	0	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	531	135	95	26	630	212	107	30	183	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq200	202	0	0	0	0	280	0	0	95	185	0	10	0	0	584	0	119	164	0	42	0	0	0	0	47	0	0	0	0	0	34	44	0	62	0	0	51	0	42	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq148	0	100	106	116	181	86	117	73	0	0	91	56	134	16	27	237	93	99	23	24	46	0	0	0	0	26	0	61	0	0	41	33	0	12	30	24	19	0	81	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq236	0	53	4	0	0	35	40	0	0	0	73	93	29	114	173	0	0	92	204	0	0	0	0	0	0	32	0	51	0	566	83	18	84	24	0	48	108	0	26	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq230	0	0	135	172	137	0	354	0	0	0	152	0	0	0	0	425	0	143	127	0	0	0	0	0	0	0	0	0	0	0	0	122	0	0	0	0	0	0	179	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq179	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1940	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq203	0	104	10	111	113	94	43	70	68	0	74	29	136	44	18	294	0	29	0	0	0	0	0	0	0	0	0	283	0	0	48	62	26	0	52	23	28	0	142	Bacteria						
+seq223	0	0	0	0	194	0	0	0	0	0	0	677	0	0	189	0	0	0	0	0	0	0	0	0	0	0	0	0	0	532	0	0	0	0	295	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq198	0	0	94	444	93	0	185	368	117	0	0	0	0	17	0	169	0	0	0	0	0	0	0	0	0	0	0	0	27	33	43	45	0	0	107	0	0	19	50	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq173	0	0	0	217	0	0	0	0	0	0	0	0	0	0	0	0	147	0	146	273	0	0	0	0	0	0	0	314	0	0	0	155	239	0	0	279	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq205	11	112	65	65	73	195	30	107	353	70	0	0	56	0	0	45	0	87	152	0	189	0	0	0	0	0	0	85	0	0	0	23	0	0	42	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq248	0	6	0	0	0	0	0	0	7	0	0	0	86	0	0	0	18	0	0	45	0	0	0	0	261	0	225	0	0	817	120	11	0	0	38	52	0	48	0	Bacteria	Firmicutes					
+seq235	29	53	68	53	48	27	167	67	28	0	0	15	77	16	0	322	45	115	237	0	120	0	0	0	0	0	27	21	0	88	50	0	0	0	52	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq234	0	0	0	0	0	438	0	0	0	0	90	0	0	0	0	0	0	0	0	0	423	0	0	0	0	0	0	744	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq233	0	132	40	97	109	95	46	86	68	30	74	0	132	0	28	227	17	57	23	0	84	0	0	8	0	31	0	0	0	0	20	54	0	0	96	0	28	78	27	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq272	0	0	34	0	0	47	0	0	0	31	0	0	0	41	0	0	0	0	0	0	0	140	0	123	0	119	0	0	194	133	59	0	119	237	0	74	177	153	0	Bacteria	Firmicutes	Bacilli	Lactobacillales			
+seq222	274	42	0	42	0	55	0	0	0	0	45	0	139	0	0	109	0	0	226	398	68	0	0	0	0	32	0	0	0	0	0	93	25	0	46	0	0	18	51	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq253	0	195	172	293	127	115	230	184	40	0	0	0	304	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-11]	
+seq279	0	0	0	0	0	0	0	0	0	0	0	69	0	76	0	76	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	738	0	0	501	192	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-11]	
+seq25	0	0	16	0	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	25	380	0	107	140	40	37	0	748	9	24	0	91	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	faecalis/gallinarum
+seq227	0	103	30	204	162	85	0	75	98	26	65	0	228	40	42	218	0	0	0	0	0	0	0	0	0	0	0	29	0	0	0	79	0	0	36	24	0	0	95	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq229	0	90	96	112	0	110	149	108	0	21	103	0	97	0	0	151	30	44	0	0	97	0	0	0	0	0	0	46	0	0	0	143	0	0	81	0	0	0	137	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq237	0	0	0	0	0	80	0	0	0	202	1045	72	0	0	38	0	0	0	0	0	0	0	0	0	0	0	0	118	0	0	0	0	0	0	58	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-12]	
+seq240	0	74	0	86	137	107	0	70	38	0	85	0	143	6	17	213	68	60	113	0	108	0	0	0	0	0	0	31	0	0	25	88	0	0	0	0	0	30	105	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq245	0	0	230	100	29	38	480	47	15	0	96	44	82	0	0	94	0	0	0	0	28	0	0	0	0	0	0	21	0	0	0	37	0	0	79	0	0	115	53	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-6]	
+seq228	0	58	126	118	84	39	124	51	0	0	0	218	82	43	30	25	0	42	43	0	21	0	0	18	23	14	15	183	0	0	0	0	21	0	0	0	53	119	33	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-9]	
+seq213	12	51	0	35	72	41	13	47	45	0	40	86	187	0	0	279	39	24	261	0	29	0	0	0	0	0	0	7	0	0	0	51	0	0	37	20	0	88	80	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq294	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	106	0	0	0	0	128	0	0	176	158	67	0	135	237	0	91	220	134	59	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq212	0	71	0	13	61	262	35	0	0	0	161	0	120	62	635	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	63	0	27	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq290	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	0	0	315	0	0	24	343	131	27	0	147	153	0	301	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+seq208	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1215	0	0	0	0	47	0	194	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-11]	
+seq243	0	43	0	0	131	94	0	0	41	12	165	0	169	6	0	276	102	57	12	0	0	0	0	0	0	0	0	0	0	0	0	121	0	20	28	0	0	32	122	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-8]	
+seq178	88	0	0	0	0	0	0	0	0	125	56	0	0	0	0	0	757	389	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq186	0	102	32	108	107	194	42	102	107	0	141	0	153	29	27	0	0	60	0	0	0	0	0	0	0	0	0	0	0	0	0	110	0	0	0	0	0	0	105	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq244	5	15	95	30	2	3	160	42	164	0	0	26	31	0	21	22	10	20	57	54	47	0	0	0	0	127	0	280	0	0	0	0	0	0	129	0	0	77	0	Bacteria	Firmicutes					
+seq246	0	72	53	79	27	87	0	77	81	0	46	19	61	33	0	34	40	110	173	0	70	0	0	0	0	53	0	106	0	0	0	59	0	0	56	0	0	24	49	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq197	0	112	30	76	35	130	25	47	19	0	56	47	38	19	14	54	49	255	72	27	152	0	0	0	0	0	0	69	0	0	11	0	0	0	0	14	18	0	10	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-2]	
+seq317	0	0	55	0	0	0	0	0	0	0	0	0	0	0	121	0	0	0	0	0	45	0	0	0	0	128	0	0	132	0	0	0	164	245	0	121	174	146	29	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae		
+seq258	0	56	13	73	79	64	21	70	55	0	33	201	84	20	0	57	32	78	0	0	9	0	0	14	26	9	0	21	0	246	37	0	0	0	37	0	13	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq277	33	0	0	0	0	0	0	0	0	0	40	0	0	0	109	0	0	0	0	0	44	103	47	0	0	112	0	0	152	0	47	0	0	273	25	0	169	193	0	Bacteria	Firmicutes	Bacilli	Lactobacillales			
+seq231	83	20	0	0	0	56	0	0	0	0	0	0	0	0	275	0	0	0	0	0	0	170	0	148	407	107	70	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq215	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	504	126	446	124	0	0	22	0	109	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq255	0	212	51	178	326	114	0	0	221	0	0	49	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	118	0	0	0	0	0	0	49	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq262	0	204	0	238	163	207	0	189	87	0	119	0	99	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-12]	
+seq260	0	69	0	140	151	59	40	95	128	32	150	26	155	0	36	33	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	49	18	0	58	0	0	0	43	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-2]	[G-2]
+seq271	26	0	0	0	0	16	0	23	59	24	0	0	0	36	105	0	0	0	0	0	28	36	0	71	113	78	0	0	90	79	0	0	41	187	0	39	129	101	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq191	47	67	11	0	65	68	0	0	0	109	51	12	90	85	62	8	49	25	16	0	10	0	0	25	87	30	79	0	0	0	0	23	58	0	102	64	34	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq269	0	77	0	83	74	103	0	79	0	17	101	13	51	17	0	288	0	0	41	0	70	0	0	0	0	0	0	96	0	95	0	0	39	0	29	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-4]	
+seq257	0	0	20	0	0	0	0	0	47	68	0	0	0	68	307	0	0	0	0	0	0	134	46	133	336	95	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq249	13	0	35	0	0	0	100	0	0	0	0	0	0	21	50	24	164	0	100	63	51	0	0	0	0	82	0	17	0	0	14	144	71	63	0	69	0	0	142	Bacteria						
+seq263	0	78	0	62	119	74	0	42	86	40	69	52	95	63	46	0	19	42	0	0	0	0	0	0	0	0	0	0	0	0	23	0	21	0	114	30	0	55	93	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-1]	[G-1]
+seq298	0	0	50	0	0	0	0	0	0	0	0	0	0	23	88	0	0	0	0	0	38	65	45	33	0	90	0	0	73	107	33	0	86	118	0	77	144	147	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae		
+seq309	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	141	0	1045	29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia				
+seq295	0	0	0	0	0	0	0	0	0	0	0	0	130	0	0	179	0	0	310	32	51	0	0	0	0	0	0	70	0	0	48	142	0	0	52	0	0	0	197	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq256	0	0	0	0	0	0	0	0	0	0	0	0	877	107	190	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq220	0	0	0	0	0	0	0	0	0	0	0	0	152	60	0	0	23	0	0	24	0	0	0	0	0	0	0	247	0	0	0	416	50	0	141	13	14	0	41	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq270	0	0	78	47	38	0	291	41	0	0	34	0	0	0	62	157	0	0	58	0	74	0	0	0	0	43	36	29	0	37	0	77	0	0	37	0	0	41	0							
+seq311	0	113	44	177	151	0	0	178	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	39	0	62	362	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq289	0	30	0	76	52	0	0	48	0	0	0	0	102	0	0	0	67	0	170	0	30	0	0	0	0	0	0	509	0	0	37	0	0	0	22	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq292	0	0	21	0	0	0	0	0	54	0	0	0	0	0	108	0	0	0	0	0	0	39	0	85	101	75	27	0	58	60	37	0	0	180	0	38	128	69	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq330	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	421	207	446	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq189	0	28	0	5	32	95	0	0	49	123	45	0	28	249	170	0	79	93	40	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq332	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1045	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq242	0	14	37	43	0	0	27	36	0	17	16	0	31	28	22	0	0	7	0	0	17	0	23	25	174	44	38	102	0	0	28	51	27	0	114	20	15	21	67	Bacteria	Firmicutes					
+seq304	28	39	0	0	20	49	0	19	109	0	70	0	0	0	22	0	156	320	0	0	0	0	0	0	0	0	0	212	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-2]	
+seq250	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	51	76	25	222	58	0	109	102	0	41	0	0	97	150	63	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq321	0	0	0	0	0	0	0	0	0	0	0	0	0	0	59	0	0	0	0	0	0	72	0	117	129	66	0	0	101	0	0	0	43	165	0	39	161	48	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae		
+seq210	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	979	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq266	0	85	41	31	95	82	0	28	131	0	0	0	0	34	27	0	53	46	0	39	0	0	0	0	0	0	0	69	0	0	34	44	0	0	0	30	0	0	100	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-4]	
+seq261	0	54	53	100	58	44	0	76	84	0	58	20	105	0	28	111	0	0	0	0	88	0	0	0	0	0	0	0	0	0	27	23	0	0	0	0	0	0	39	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq254	0	27	0	24	47	27	0	0	0	0	14	0	0	7	0	0	41	55	186	14	406	0	0	0	0	83	0	0	0	0	0	12	0	0	0	0	0	24	0	Bacteria						
+seq286	0	27	73	83	39	55	106	73	0	0	21	0	65	0	0	218	9	12	0	0	33	0	0	0	0	0	0	0	0	0	0	44	0	0	17	0	0	47	31	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq273	0	0	0	0	0	0	0	0	0	0	0	0	0	0	237	0	0	0	0	0	0	207	0	122	352	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq284	0	151	0	243	118	0	0	155	0	0	0	0	184	0	0	65	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq355	0	0	40	0	0	0	0	0	0	0	0	0	0	57	0	0	0	0	0	0	0	72	0	0	0	84	0	0	0	132	0	0	0	179	0	0	213	133	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq299	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	65	0	0	196	0	0	49	0	0	133	0	463	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq281	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	333	130	253	184	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq276	33	0	0	0	0	0	0	0	0	0	0	29	0	0	0	0	48	17	0	0	0	287	36	39	23	0	192	15	0	151	0	0	0	9	0	0	0	0	0	Bacteria	Firmicutes					
+seq305	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	636	0	0	237	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq232	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	250	0	87	308	0	0	0	0	0	0	171	0	0	52	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq274	0	0	0	34	39	40	20	31	36	6	40	11	78	0	0	113	0	0	0	14	21	0	0	0	0	13	37	23	0	29	50	81	0	21	21	10	15	21	47	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq307	0	0	0	0	0	0	84	0	0	0	0	30	0	0	0	11	0	0	66	0	26	18	53	160	31	24	208	0	0	140	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-6]	
+seq302	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	90	63	27	660	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq293	0	53	23	76	26	63	0	41	0	0	37	50	82	36	0	53	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	32	0	0	78	33	26	0	76	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-9]	
+seq349	0	0	94	0	30	0	41	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	251	90	0	82	78	54	0	70	Bacteria						
+seq287	24	0	0	0	13	0	0	22	25	38	0	16	0	53	178	0	0	0	0	0	0	72	0	75	246	46	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq395	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	140	36	0	95	0	529	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq352	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	29	0	94	0	0	87	0	0	113	47	0	0	45	45	0	73	213	0	25	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae		
+seq268	0	0	102	81	41	55	39	0	0	0	0	0	0	0	0	161	0	0	0	0	56	0	0	0	0	41	0	0	0	0	60	0	0	0	157	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq278	16	37	23	102	44	45	0	43	30	0	33	0	44	0	0	0	50	170	19	15	29	0	0	0	0	0	0	20	0	0	0	0	0	14	0	0	28	0	25	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-2]	
+seq387	42	0	0	0	0	0	0	0	0	0	0	0	49	0	14	108	206	147	150	64	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-3]	[G-3]
+seq310	37	21	17	16	0	14	41	8	0	0	17	0	16	0	0	60	62	24	210	50	13	0	0	0	0	0	0	108	0	0	0	13	0	0	40	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq320	0	91	53	0	0	0	0	70	108	0	0	0	0	83	0	0	0	0	0	0	92	0	0	0	0	0	0	0	0	0	112	0	0	0	0	0	0	126	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq340	0	82	0	116	49	75	77	32	0	0	30	0	102	0	0	27	71	48	0	0	7	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq425	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	385	0	0	0	0	0	0	0	343	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq301	13	177	0	0	0	19	0	0	93	17	33	0	0	0	0	0	0	129	0	0	0	0	0	0	0	0	13	0	0	0	118	19	18	0	29	0	27	0	16	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-11]	
+seq300	0	137	0	71	0	99	0	50	52	31	70	0	0	0	0	0	0	0	0	0	0	0	0	0	0	47	0	105	0	0	38	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq239	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	696	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Erysipelotrichaceae_[G-1]	[G-1]
+seq410	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	166	0	55	0	0	474	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Dubosiella	
+seq280	0	57	0	13	78	41	0	0	0	0	63	0	31	0	0	219	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	0	0	0	0	148	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-8]	
+seq380	0	0	0	0	0	0	0	0	0	0	0	29	0	0	52	0	0	0	0	0	0	0	0	46	67	72	54	0	0	0	45	0	54	34	37	72	45	83	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq296	0	11	15	0	0	0	0	0	16	0	0	14	0	46	174	0	0	0	0	0	14	54	0	76	204	50	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq346	0	0	0	0	0	166	0	0	0	0	0	93	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	203	0	0	206	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq318	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	49	72	99	0	0	11	61	202	102	41	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+seq357	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	653	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq297	43	0	0	0	0	0	0	0	38	0	0	71	0	41	110	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	51	13	58	0	55	0	51	85	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq312	6	22	0	24	34	45	0	32	30	0	29	0	43	5	0	18	17	36	80	10	0	0	0	0	6	0	0	25	0	0	0	65	0	0	15	0	28	0	79	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq382	0	28	15	0	0	20	0	45	12	14	56	0	0	14	0	161	0	0	0	0	28	0	0	0	0	0	10	119	0	0	0	15	0	0	61	8	0	0	19	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq446	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	224	0	0	0	0	0	224	0	0	0	0	0	0	0	176	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq375	0	0	0	111	40	29	48	69	0	0	0	0	102	0	0	102	25	0	58	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq339	0	44	0	41	70	60	0	36	0	0	46	0	39	15	12	38	69	24	0	0	47	0	0	0	0	0	0	24	0	0	0	12	6	0	11	0	0	0	14	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-6]	
+seq356	17	12	0	16	20	25	8	0	5	45	47	22	12	14	20	0	17	0	44	11	0	0	0	0	12	12	0	64	0	0	0	18	11	0	71	0	37	35	12	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+seq363	0	44	20	46	54	38	28	46	0	0	36	0	94	0	0	88	0	0	0	0	37	0	0	0	0	0	0	0	0	0	0	0	0	0	49	0	0	27	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq319	41	0	0	0	0	0	0	0	0	84	0	0	0	0	189	0	0	0	0	0	0	0	0	0	292	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq333	0	0	66	0	42	0	229	35	56	0	0	28	0	0	0	0	52	76	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq403	20	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	25	0	0	0	0	57	0	0	69	58	0	0	68	65	0	65	60	79	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq314	0	45	43	31	0	21	15	0	48	10	32	24	0	0	22	0	38	73	69	16	61	0	0	0	0	0	0	0	0	0	0	0	0	0	29	0	0	20	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-2]	
+seq259	0	0	110	36	0	0	14	18	116	0	32	0	82	0	42	39	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	18	0	0	32	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-11]	
+seq328	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	574	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq303	0	35	0	31	40	27	0	39	0	0	0	0	120	0	0	0	0	33	0	14	47	0	0	0	0	0	0	74	0	0	0	0	0	17	0	0	0	0	95	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq459	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	564	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Dubosiella	newyorkensis
+seq275	0	31	0	0	52	42	0	22	13	0	58	0	0	0	0	0	0	0	0	0	35	0	0	0	5	19	0	11	0	0	8	123	0	0	20	0	0	0	124	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-3]	
+seq81	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	365	0	0	0	197	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq431	0	0	66	235	0	0	0	120	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	128	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq367	0	0	0	0	0	38	0	0	42	0	0	0	0	0	0	31	0	0	82	0	65	0	0	0	0	0	0	89	0	0	0	26	0	0	37	0	0	0	136	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq291	0	57	77	73	18	0	22	14	78	0	0	0	73	0	16	0	0	27	0	0	72	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	8	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq316	0	14	16	29	24	50	2	26	15	0	24	10	47	0	0	54	15	36	52	0	33	0	0	0	0	0	0	27	0	0	14	5	0	0	19	0	0	13	19	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq322	114	0	0	0	0	0	0	0	0	0	0	220	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	118	0	0	0	0	0	0	0	0	0	92	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq325	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	237	0	0	124	107	0	0	0	0	76	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	
+seq390	0	62	42	101	0	0	0	28	0	0	0	40	90	0	0	32	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	68	0	0	30	32	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-12]	
+seq350	0	28	7	18	36	60	4	6	11	23	26	36	21	30	57	0	43	40	0	27	0	0	0	0	0	9	0	0	0	0	0	0	0	0	25	5	24	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-6]	
+seq377	0	30	6	0	114	35	0	0	94	22	11	48	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	38	0	64	25	0	0	14	0	Bacteria	Firmicutes	Clostridia				
+seq337	23	71	23	0	0	24	0	36	74	0	64	0	51	0	0	0	0	0	74	0	58	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq444	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	168	0	135	28	0	188	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq265	0	0	0	0	0	0	0	0	199	0	0	0	319	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0							
+seq379	0	41	0	0	65	53	0	0	15	0	0	0	89	0	0	0	67	69	0	0	31	0	0	0	0	12	0	25	0	0	0	28	0	0	0	0	0	0	23	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq473	0	0	0	0	0	0	0	0	0	0	509	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	
+seq331	0	53	0	44	49	40	0	0	36	0	41	0	34	0	0	0	27	77	0	0	0	0	0	0	0	0	0	75	0	0	0	0	0	0	0	20	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-2]	
+seq306	0	32	0	0	0	38	0	0	0	0	31	45	0	0	19	47	23	31	13	0	26	0	0	0	0	0	0	40	0	0	0	0	9	0	0	16	23	51	51	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-2]	
+seq483	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	477	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq484	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	177	0	0	0	212	87	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq386	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	113	0	0	0	0	190	0	0	113	0	0	0	27	0	0	32	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq447	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	206	119	149	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-7]	
+seq358	0	65	0	0	0	111	0	40	46	0	94	0	0	0	0	0	0	61	41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-3]	
+seq365	0	0	0	0	0	0	0	0	0	0	0	0	0	34	35	0	27	112	0	0	0	0	0	0	0	0	0	0	0	0	0	47	0	0	100	28	18	18	31	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq445	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	155	0	99	40	0	155	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae		
+seq345	0	0	0	0	121	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	74	0	0	0	0	50	0	202	0	0	0	0	0	0	0	0	0	0	0	Bacteria						
+seq315	0	0	0	0	0	0	0	0	0	0	81	111	0	0	0	180	0	0	68	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq252	0	0	0	30	28	55	52	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	67	22	0	0	56	10	28	0	54	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq308	0	25	0	36	46	73	0	13	17	0	35	0	0	0	0	0	103	50	24	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-3]	
+seq353	0	12	0	0	19	15	20	9	30	0	26	0	0	0	0	50	24	0	30	8	17	0	0	0	0	4	0	18	0	0	15	62	0	0	15	13	4	12	27	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq419	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	257	0	173	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq504	0	0	0	0	0	0	0	0	0	0	0	0	0	0	165	0	0	0	0	0	0	0	0	0	262	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq376	152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	72	49	0	148	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+seq398	0	120	0	98	0	0	0	100	0	0	0	0	99	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	
+seq371	0	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	0	103	109	170	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-3]	
+seq264	0	0	0	0	2	0	13	0	0	0	0	2	0	0	0	0	0	0	0	0	27	0	0	0	0	28	0	0	0	0	0	0	0	0	276	0	2	60	4	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	cohnii/gallinarum/saprophyticus/succinus/ureilyticus/xylosus
+seq450	0	0	0	0	0	0	0	0	0	0	23	0	0	43	176	0	0	0	0	0	0	0	0	0	169	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq471	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	66	0	78	121	0	0	0	0	0	0	0	0	146	0	0	0	0	0	Bacteria	Firmicutes					
+seq392	0	0	0	27	16	0	0	113	146	0	0	0	58	0	9	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	6	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq359	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	399	0	0	0	0	0	0	0	Bacteria						
+seq427	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	205	192	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-11]	
+seq362	0	0	0	0	0	59	0	0	0	0	0	0	0	0	0	0	0	0	0	0	114	0	0	0	0	33	0	0	0	190	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-3]	
+seq400	0	92	0	0	0	0	0	0	92	49	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	59	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-12]	
+seq343	0	29	0	60	0	68	0	14	81	0	78	26	0	6	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	20	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-2]	
+seq282	0	20	40	0	39	27	0	0	0	5	26	0	0	0	9	55	35	20	0	10	34	0	0	0	0	5	0	15	0	0	0	29	0	0	0	0	21	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq455	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	61	75	0	0	0	56	0	0	0	0	94	0	14	63	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae		
+seq361	0	0	0	0	0	0	0	0	0	0	22	0	103	0	0	0	30	0	30	0	0	0	0	0	0	0	0	87	0	0	0	19	0	0	0	0	0	0	93	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq485	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	101	0	0	0	0	0	129	0	0	0	0	0	0	0	154	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq285	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	380	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq335	0	0	0	5	0	25	0	0	0	0	0	0	0	0	0	12	0	0	91	8	0	0	0	0	0	0	0	18	0	0	74	70	18	0	0	0	0	0	59	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq472	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	166	0	214	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq430	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	103	0	0	0	0	150	0	0	88	0	0	0	38	0	0	0	0	0	Bacteria	Firmicutes					
+seq409	0	62	0	0	40	0	0	0	94	0	0	0	87	0	0	42	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	52	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-12]	
+seq370	0	0	0	39	47	92	0	0	0	30	57	0	95	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq334	0	0	19	48	24	0	36	72	44	0	0	23	27	0	0	0	25	22	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq432	0	0	69	0	0	0	171	0	0	0	0	0	0	0	0	106	0	0	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq469	0	140	14	100	56	24	0	0	14	13	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq496	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	70	0	73	115	0	0	0	0	0	0	0	0	115	0	0	0	0	0	Bacteria	Firmicutes					
+seq348	0	61	0	29	70	67	0	0	0	31	0	0	0	0	0	0	0	0	0	114	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq424	0	21	0	0	23	55	0	0	0	12	30	0	25	15	0	0	36	67	62	8	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-6]	
+seq383	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	74	0	117	0	0	88	0	0	0	0	0	74	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq247	0	0	0	0	0	20	0	0	0	0	156	0	33	0	0	0	56	31	0	53	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-6]	
+seq391	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	142	0	0	87	0	0	0	0	0	0	119	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq388	0	0	0	17	0	0	45	21	21	0	0	0	27	0	0	37	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	79	0	0	15	0	0	16	42	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq406	0	0	0	0	0	0	0	0	0	105	74	0	0	0	0	0	57	48	51	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq438	0	0	0	172	0	0	0	159	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq474	0	0	0	0	0	0	0	0	0	0	0	0	0	14	24	0	14	14	7	0	3	0	0	0	0	21	2	0	0	0	0	0	101	29	25	32	41	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-1]	
+seq466	0	43	0	0	0	0	0	147	0	0	0	83	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	53	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq495	0	0	0	0	0	0	0	0	0	0	0	0	0	0	154	0	0	0	0	0	0	0	0	0	167	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq193	0	0	0	0	0	107	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	192	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	[G-4]
+seq416	0	0	0	0	0	0	0	0	0	0	0	0	116	0	30	52	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	35	0	20	52	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-2]	
+seq217	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	159	0	0	0	0	0	0	0	0	0	0	0	22	0	33	0	0	97	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-7]	
+seq384	0	140	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	167	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-3]	
+seq497	0	0	0	114	0	81	0	67	0	0	0	0	45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-12]	
+seq341	0	0	0	36	0	0	0	17	0	0	0	0	51	0	0	0	0	0	31	0	0	0	0	0	0	0	0	63	0	0	67	40	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq440	0	25	0	51	27	53	0	39	0	0	24	0	37	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	9	0	0	16	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq407	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	0	53	0	0	0	0	41	0	171	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq372	0	73	0	0	60	82	0	0	0	0	0	0	0	0	16	0	0	0	63	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq490	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	70	0	91	0	0	0	71	0	0	0	0	0	62	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq514	0	0	0	0	0	123	0	0	0	0	0	0	82	0	0	0	0	0	0	87	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq437	0	0	0	64	38	0	0	47	89	0	0	0	53	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-12]	
+seq414	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	197	14	0	0	0	0	36	0	28	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	sp.
+seq420	131	0	43	0	0	0	0	0	0	0	0	0	0	33	83	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq422	0	0	4	0	14	35	0	0	20	17	17	34	0	11	20	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	16	0	27	19	11	0	12	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq351	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	145	0	0	0	0	0	0	0	0	0	0	0	0	0	142	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq458	0	23	17	27	23	27	0	0	31	0	14	0	0	0	0	0	52	33	39	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq428	0	0	13	9	10	0	0	0	17	0	18	21	12	0	0	25	0	0	0	0	20	0	0	0	0	13	0	0	0	0	5	0	0	10	41	28	17	24	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Peptococcaceae	Peptococcaceae_[G-1]	
+seq347	0	24	0	0	24	7	0	0	22	29	0	12	0	40	33	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	21	50	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-5]	
+seq354	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	144	0	0	0	0	66	0	0	19	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-2]	
+seq570	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	97	0	178	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq538	0	0	0	0	0	17	0	0	0	0	44	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	92	0	0	0	0	0	0	75	0	0	43	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq408	8	29	0	0	0	25	0	0	34	0	11	25	10	0	0	9	21	39	33	14	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	8	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq579	0	0	0	0	0	0	0	0	0	0	0	0	0	0	115	0	0	0	0	0	0	77	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq581	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	76	0	57	73	0	0	0	0	0	0	0	0	59	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq520	0	0	0	0	26	33	0	0	21	28	0	0	0	0	36	0	22	0	0	0	0	0	0	0	0	29	0	0	0	0	0	0	0	0	69	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-4]	
+seq374	0	0	0	36	40	0	0	0	0	0	0	0	0	0	0	0	0	76	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	62	0	0	41	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq460	0	58	47	0	0	53	0	0	0	0	53	0	43	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-3]	
+seq513	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	155	0	0	0	0	0	0	0	0	94	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq597	0	0	0	0	0	247	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq548	146	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq601	0	0	0	0	0	0	0	107	0	0	0	0	139	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq605	0	0	0	0	0	0	0	0	101	46	95	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq401	0	0	0	10	39	34	0	15	28	0	20	47	19	11	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Eubacteriales_[F-1]	Eubacteriales_[G-4]	
+seq512	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	58	0	0	21	0	89	0	0	20	0	0	0	0	0	0	0	0	27	0	Bacteria	Actinobacteria	Actinomycetia	Corynebacteriales	Corynebacteriaceae	Corynebacterium	mastitidis
+seq429	0	67	0	0	69	0	0	0	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq547	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	115	0	0	0	0	0	121	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae		
+seq434	0	0	0	0	0	0	0	0	0	0	0	0	0	0	37	0	0	0	0	0	0	0	124	0	43	29	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq546	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	46	0	0	0	0	0	75	27	0	0	0	0	0	0	85	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq404	0	0	0	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	53	47	9	17	31	17	11	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae		
+seq544	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	45	50	0	0	0	0	0	0	15	0	108	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq442	0	116	0	55	0	0	0	0	0	0	0	0	58	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq617	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	103	0	0	0	0	0	0	0	124	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq417	0	0	0	0	0	0	0	0	0	0	0	0	0	0	36	0	0	0	0	0	0	0	103	0	51	35	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq461	0	0	0	139	0	0	0	0	0	0	0	0	0	0	61	0	0	0	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq449	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	40	0	54	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	40	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq501	40	0	0	0	0	0	0	0	0	61	0	0	0	0	0	0	33	36	0	47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq385	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	83	87	0	0	0	0	0	0	0	0	45	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq524	0	0	7	12	0	11	43	28	0	0	0	3	11	0	0	33	4	0	20	0	0	0	0	0	0	0	0	42	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq634	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	62	0	152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq641	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	65	146	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq578	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	74	0	0	0	0	0	0	30	79	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq598	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	50	0	0	0	0	0	0	0	0	0	156	0	0	0	0	0	Bacteria	Firmicutes					
+seq648	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	205	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-3]	
+seq576	0	0	0	0	0	0	0	0	8	0	0	15	38	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	60	0	0	14	27	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq592	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	73	0	0	0	0	0	43	0	0	0	0	0	0	0	85	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq448	0	0	0	47	0	0	0	21	35	0	0	0	0	0	0	60	0	0	0	0	37	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq462	0	0	31	13	36	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	20	20	0	0	0	0	0	0	0	0	0	24	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-4]	
+seq326	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	192	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq465	80	0	0	0	0	0	0	0	0	0	0	0	0	0	48	0	0	0	0	64	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq451	32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	105	0	0	54	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq536	0	0	19	0	0	0	0	42	0	0	0	0	35	0	0	68	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	6	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-2]	
+seq481	0	0	0	0	39	0	0	0	4	0	0	0	65	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	0	0	25	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-5]	
+seq507	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	31	29	33	0	0	0	0	0	0	0	0	0	0	0	7	19	0	0	24	0	0	21	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq327	0	0	0	0	0	0	0	0	0	0	0	0	186	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-6]	
+seq528	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	0	0	0	25	0	30	0	0	0	0	0	0	62	0	0	41	0	0	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	
+seq603	0	0	0	0	0	0	0	0	0	0	0	0	0	0	51	0	0	0	0	0	0	36	0	15	83	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq545	0	0	0	68	21	31	9	17	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq691	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	178	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq494	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	162	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	Bacteria	Firmicutes					
+seq540	0	0	0	93	0	84	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-12]	
+seq519	0	0	0	0	0	0	34	31	0	0	0	0	0	0	0	31	0	0	31	0	40	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq558	0	0	0	0	0	0	0	0	0	0	0	0	0	0	62	0	0	0	0	0	0	41	0	0	73	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq696	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	73	0	0	0	0	103	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae		
+seq609	0	0	40	0	0	0	0	0	0	0	0	0	0	0	20	32	0	0	59	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-2]	
+seq704	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	86	0	0	0	0	0	0	88	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq457	0	0	0	0	0	0	0	0	0	0	0	0	173	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-6]	
+seq580	47	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	39	0	0	36	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae		
+seq708	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	173	0	0	0	0	0	Bacteria	Firmicutes					
+seq554	0	0	10	0	0	0	22	0	0	0	0	0	14	0	0	36	0	16	28	0	0	0	0	0	0	0	0	27	0	0	0	19	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-3]	
+seq711	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	60	0	62	0	0	50	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Erysipelotrichaceae_[G-1]	
+seq500	47	0	0	0	0	0	0	0	0	46	0	0	0	0	0	0	0	0	0	35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	42	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq716	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	170	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-3]	
+seq539	0	51	0	0	0	0	90	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq638	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	93	0	0	0	75	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq622	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	0	0	0	0	0	0	41	30	59	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq541	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	80	0	0	0	0	0	0	0	0	0	83	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq680	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	38	51	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq726	44	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	117	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae		
+seq515	0	0	0	0	0	0	0	0	0	113	0	0	0	0	0	0	47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq569	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	84	0	76	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq521	0	0	21	0	0	0	0	56	0	0	0	0	12	30	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	
+seq690	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	49	0	46	0	0	21	43	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq226	0	0	18	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	14	37	8	14	0	0	7	0	10	0	14	0	0	15	0	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Rodentibacter	pneumotropicus
+seq604	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	74	83	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq737	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	64	0	0	0	0	0	0	0	0	93	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq421	0	0	0	0	0	0	0	0	0	0	0	0	30	56	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	13	0	0	17	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq456	0	0	15	11	0	0	35	0	9	0	0	8	0	0	4	14	14	0	8	11	0	0	0	0	4	0	4	0	0	0	0	5	0	0	9	0	0	0	5	Bacteria						
+seq740	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	51	34	46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq606	0	0	0	0	0	0	0	0	25	0	0	0	0	24	54	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	51	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq488	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	32	0	0	0	0	22	13	0	0	47	20	9	Bacteria	Firmicutes	Clostridia	Eubacteriales	Eubacteriales_[F-1]	Eubacteriales_[G-3]	
+seq623	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	68	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	0	0	0	0	0	51	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq344	4	0	0	0	0	0	0	0	0	0	0	0	0	38	0	0	12	36	0	60	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Proteobacteria	Alphaproteobacteria	Hyphomicrobiales			
+seq555	0	0	0	0	41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	45	0	0	0	0	0	0	0	0	0	0	64	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq499	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	149	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq632	54	0	0	0	0	0	0	0	0	0	65	0	0	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq584	0	0	0	0	0	0	0	0	0	0	0	0	0	0	42	0	0	55	0	0	0	0	0	0	49	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq653	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	72	0	0	71	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq651	0	16	0	0	0	0	26	0	0	0	0	0	0	0	0	17	0	0	36	0	10	0	0	0	0	20	0	0	0	0	0	0	0	0	15	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq678	34	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	57	49	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq770	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	58	0	0	0	0	0	0	0	0	0	0	0	0	0	68	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae		
+seq771	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	139	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia				
+seq677	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	60	0	0	0	0	19	0	37	Bacteria						
+seq412	0	0	0	0	0	0	0	0	0	0	0	0	41	24	0	0	0	0	0	0	57	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq602	58	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	0	0	49	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq549	0	0	0	0	18	28	0	0	21	0	22	0	19	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-6]	
+seq785	0	0	0	0	0	0	0	0	0	0	0	0	82	0	0	52	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq625	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	36	35	62	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq676	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	37	56	0	0	0	0	0	0	0	0	39	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq715	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	60	72	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq789	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	132	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae		
+seq575	55	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq797	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	130	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq799	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	128	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq486	0	0	0	0	0	68	0	0	0	0	0	0	0	59	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq402	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	126	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq803	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	0	100	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq807	0	0	0	0	0	0	0	0	0	0	125	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq686	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	29	0	94	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq810	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	123	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq423	0	0	0	0	0	0	0	0	0	0	0	33	0	0	0	57	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-2]	
+seq553	0	0	0	0	0	0	0	0	0	0	0	58	49	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq742	0	0	0	0	0	45	0	0	0	0	0	0	0	0	0	0	0	77	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-4]	
+seq812	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	122	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq563	0	10	0	0	7	6	7	12	0	8	9	0	0	5	0	7	0	0	7	0	0	0	0	0	7	0	0	0	0	0	0	15	0	0	9	0	0	0	12	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq635	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	24	0	20	60	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq818	59	0	0	0	0	0	0	0	0	0	62	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq643	0	0	0	0	0	0	0	0	0	0	0	58	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	40	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq769	120	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+seq611	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	47	0	72	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales			
+seq683	119	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq720	0	0	0	0	0	0	85	0	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq829	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	47	0	0	0	0	12	0	0	46	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq694	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	117	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq613	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	36	0	46	0	0	0	34	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq658	0	0	0	0	0	0	0	0	0	116	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq741	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	116	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq630	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	115	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq776	0	54	0	0	0	0	0	0	61	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq841	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	114	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq842	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	114	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq843	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	114	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq848	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	113	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq850	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	112	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq856	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	110	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq857	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	66	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Dubosiella	
+seq861	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	109	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq863	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	109	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq475	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	107	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq565	0	0	0	0	0	0	0	0	3	0	0	13	0	5	0	0	0	0	8	3	0	0	0	0	0	0	0	62	0	0	4	0	0	0	9	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq869	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	107	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq824	0	0	7	0	0	0	12	12	0	0	0	13	0	0	0	18	0	0	0	0	22	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Erysipelotrichaceae_[G-1]	
+seq637	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	103	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq697	0	0	0	17	0	0	10	0	0	0	0	8	0	0	0	9	0	0	11	0	11	0	0	0	0	0	0	15	0	0	0	0	0	0	8	0	0	14	0	Bacteria	Firmicutes	Clostridia	Negativicutes	Veillonellaceae	Veillonella	
+seq418	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	102	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq624	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	102	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-10]	
+seq885	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	102	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq886	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	102	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq887	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	79	0	0	0	23	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae		
+seq890	0	0	0	0	0	0	102	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq645	45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	56	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq894	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	101	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq897	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq551	0	0	50	0	0	49	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae		
+seq705	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	0	0	71	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-6]	
+seq899	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	99	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq791	33	0	0	0	0	0	0	0	34	0	0	0	0	0	0	0	0	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq907	0	0	0	0	0	0	0	71	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	
+seq908	0	0	0	0	0	0	0	0	0	0	98	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	
+seq426	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	50	0	0	0	47	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq607	0	0	0	0	0	32	0	65	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	
+seq759	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	97	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq543	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	58	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+seq639	0	0	0	0	0	0	0	0	0	0	0	0	0	0	95	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq698	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	95	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq787	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	45	0	0	0	0	0	0	0	0	0	50	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales			
+seq916	34	0	0	0	0	0	0	0	0	0	48	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq629	0	0	56	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+seq923	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	94	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq925	0	0	0	0	0	65	0	0	0	19	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq724	0	0	24	0	0	23	0	0	0	0	0	0	0	0	0	25	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-4]	
+seq931	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	92	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq577	0	0	0	10	13	0	0	20	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	18	0	0	0	6	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq722	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	0	0	0	17	0	0	0	47	0	0	0	0	0	Bacteria	Firmicutes					
+seq819	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	91	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq847	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	0	0	0	0	0	9	0	0	48	0	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	
+seq927	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	91	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria						
+seq936	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	91	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq508	0	0	0	0	0	0	0	0	0	0	35	40	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria						
+seq768	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	0	0	62	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq941	0	0	0	0	20	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	49	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-13]	
+seq619	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	89	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales			
+seq801	0	0	0	0	23	0	0	0	0	0	0	0	25	0	0	41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	
+seq945	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	45	44	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia				
+seq948	0	0	0	0	0	0	0	0	0	0	0	0	0	0	89	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq610	0	0	0	0	88	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	
+seq733	47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq681	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	4	0	0	0	0	0	0	25	0	0	0	0	0	5	22	0	0	0	0	20	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Eubacteriales_[F-1]		
+seq906	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	69	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+seq955	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	86	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq566	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	85	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq744	0	0	0	0	0	0	0	0	0	0	0	0	0	85	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq753	0	0	0	0	0	0	0	0	0	0	0	0	69	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq874	21	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	46	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq962	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	85	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq964	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	85	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq965	0	0	0	0	0	0	0	0	0	0	85	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	
+seq599	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	84	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq967	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	84	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq587	0	0	0	0	0	0	0	0	0	0	0	43	0	0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq631	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	83	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq644	0	20	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	39	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq732	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	83	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq970	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	83	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales			
+seq614	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	49	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	10	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-6]	
+seq795	38	0	0	0	0	25	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq982	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	50	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq983	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	81	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq985	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	80	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales			
+seq534	0	0	10	8	0	16	0	0	0	0	0	0	0	0	0	12	0	0	16	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq542	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	79	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq661	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	28	0	0	21	0	0	0	0	0	0	0	11	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq990	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	79	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq994	79	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq654	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	78	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq999	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	78	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae		
+seq1002	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	78	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1004	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	77	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1006	0	0	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	43	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq1010	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	49	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales			
+seq834	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq1013	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	42	0	0	0	0	0	0	0	0	0	33	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	75	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae		
+seq1015	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	45	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1018	0	0	0	0	0	0	0	0	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq922	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	74	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq596	0	0	0	0	10	21	0	0	0	0	0	0	0	0	0	0	15	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq702	0	0	0	0	0	0	0	0	0	0	0	73	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq736	0	0	0	18	9	0	0	9	21	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-2]	
+seq823	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	73	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales			
+seq1025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	73	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq550	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	72	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-3]	
+seq557	0	0	0	0	0	0	0	0	0	0	72	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq833	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq1035	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	72	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	
+seq719	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	71	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq798	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	57	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq822	35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq859	71	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1039	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	51	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	
+seq1041	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	51	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq1042	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	71	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+seq571	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	69	0	0	0	0	0	Bacteria	Firmicutes					
+seq574	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	31	0	0	0	0	0	0	38	Bacteria	Firmicutes					
+seq1049	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	69	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq1053	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	69	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-12]	
+seq682	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	68	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq905	0	0	17	10	0	13	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-9]	
+seq954	0	0	0	0	0	0	0	10	0	0	5	0	0	0	0	36	0	0	0	0	9	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq1060	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	68	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq689	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	67	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq692	0	11	0	0	0	0	0	0	4	0	0	0	0	0	0	21	0	0	19	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq836	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	67	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq868	0	0	0	0	0	0	0	0	0	0	0	67	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1061	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	67	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae		
+seq1063	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	67	0	Bacteria	Firmicutes					
+seq747	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	66	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq1069	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	36	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq1071	0	0	0	0	0	66	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1072	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-7]	
+seq751	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	65	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq921	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	5	0	0	34	0	0	5	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-1]	
+seq1075	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	65	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq1076	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	65	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq1078	0	65	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq685	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	42	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq1082	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	64	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq1083	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	64	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq532	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	63	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq882	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq974	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	36	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1090	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	63	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq928	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	62	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1100	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	9	0	15	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-4]	
+seq1104	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	62	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq1111	0	0	0	0	0	0	0	0	0	0	61	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq396	60	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq779	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	60	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1120	60	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	
+seq1121	0	0	0	0	0	0	0	0	60	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq378	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	5	0	0	0	0	0	0	0	6	0	0	0	14	0	0	0	12	0	0	11	Bacteria	Firmicutes	Clostridia	Eubacteriales	Eubacteriales_[F-1]	Eubacteriales_[G-4]	
+seq993	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	59	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-11]	
+seq1129	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	58	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales			
+seq1130	17	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	
+seq650	0	0	0	0	14	0	0	0	0	0	0	0	0	0	22	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq673	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	36	0	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseriaceae_[G-1]	
+seq778	0	0	0	0	0	0	0	0	0	0	0	57	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq840	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	57	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1137	0	0	22	35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	
+seq1141	0	0	0	0	0	0	0	0	0	57	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq838	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	56	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq1146	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	56	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq1147	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	56	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1157	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	54	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq1158	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	54	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1159	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq626	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	53	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq826	0	0	53	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	
+seq1171	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	53	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq1172	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	53	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq1173	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	53	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1175	0	0	0	53	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1179	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	53	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-11]	
+seq1180	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	53	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1181	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	53	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq662	0	0	0	0	52	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq671	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	52	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq1185	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	52	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1186	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	52	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq1197	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	39	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq1199	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	33	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq1200	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	51	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1207	0	0	0	0	0	0	0	0	0	0	51	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	
+seq1208	0	0	0	0	0	0	0	0	0	0	51	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	
+seq1209	0	0	0	0	0	0	0	0	0	0	51	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli				
+seq464	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	42	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq728	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	50	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq784	0	50	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq870	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	24	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq1212	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	50	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq559	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	49	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq745	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	37	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-6]	
+seq760	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	49	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq1215	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	49	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1216	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	49	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq1220	49	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq1221	0	0	49	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1224	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	49	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq674	0	0	13	0	0	0	35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-6]	
+seq1226	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1227	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales			
+seq1229	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	32	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+seq1230	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq522	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	47	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	
+seq595	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	47	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq655	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	47	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq665	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	47	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq851	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	47	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1017	47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq1240	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Erysipelotrichaceae_[G-1]	
+seq1242	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	47	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1243	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	47	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq1247	47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq1248	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq588	0	0	0	0	0	46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	
+seq867	0	0	0	0	46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1070	0	0	0	0	0	0	0	0	0	0	0	0	0	0	46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1256	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	46	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1262	0	0	0	0	0	0	0	0	0	0	46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae		
+seq1263	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq712	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq973	0	14	0	0	0	7	0	0	0	0	0	0	16	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1019	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	14	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1267	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	45	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1268	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	29	0	0	0	0	0	0	16	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+seq891	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	26	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+seq924	0	0	0	0	0	0	0	0	0	0	0	18	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Eubacteriales_[F-1]	Eubacteriales_[G-4]	
+seq1282	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq1283	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq1284	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae		
+seq1285	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	0	0	0	Bacteria	Firmicutes					
+seq1286	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-2]	
+seq1287	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-11]	
+seq1292	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq901	0	0	0	0	0	0	0	0	0	43	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq1297	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	22	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1298	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	43	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-13]	
+seq998	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq1305	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	42	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq1306	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	42	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq1307	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	42	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-2]	
+seq1311	0	0	0	0	0	0	0	0	0	0	0	0	42	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq381	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Aerococcus	urinaeequi/viridans
+seq880	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1062	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	41	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq1316	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1317	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq1318	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	41	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae		
+seq1323	41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae		
+seq1326	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1327	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq766	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq913	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq1077	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	
+seq1188	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	19	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Eubacteriales_[F-1]	Eubacteriales_[G-1]	
+seq1331	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq1332	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1338	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1343	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	39	0	0	0	0	0	0	0	0	0	Bacteria						
+seq1350	0	0	0	0	0	0	0	0	0	39	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-6]	
+seq1351	0	0	0	0	0	0	0	0	0	39	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq1352	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	39	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-11]	
+seq738	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq777	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq805	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1005	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-3]	
+seq1036	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq1122	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1355	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	
+seq1357	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq1361	0	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	
+seq1362	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1369	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1370	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq468	0	0	0	5	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq633	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	37	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq713	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	37	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-11]	
+seq902	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	37	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq992	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	37	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1374	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	37	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia				
+seq1377	0	37	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1382	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	37	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1390	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq1391	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	36	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1396	0	0	0	0	0	0	0	0	0	0	0	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq586	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq731	35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+seq837	0	0	0	11	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	Bacteria						
+seq966	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-3]	
+seq1026	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq1187	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria						
+seq1402	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1409	0	0	0	0	0	35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1412	0	0	0	0	0	0	0	0	35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+seq912	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq1050	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+seq1418	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	Bacteria	Firmicutes	Bacilli				
+seq1425	0	0	0	0	0	34	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq729	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq734	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	6	10	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq1043	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq1165	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq1430	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq1431	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq1432	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq1433	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1434	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1435	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1437	33	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae		
+seq1441	0	0	0	0	0	0	0	33	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1442	0	0	0	0	0	0	0	0	0	33	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria						
+seq1443	0	0	0	0	0	0	0	0	0	0	0	33	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq1444	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq1116	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	Bacteria	Actinobacteria	Actinomycetia				
+seq1449	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1450	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq1451	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	
+seq765	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	11	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq1027	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	31	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1463	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-1]	
+seq1464	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq1465	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq1467	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	31	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1472	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq701	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-2]	
+seq718	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq757	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq888	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq963	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	10	0	6	6	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq1047	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+seq1115	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1410	0	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq1483	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	Bacteria	Firmicutes					
+seq1484	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	
+seq1493	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq1494	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq1495	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+seq647	0	0	0	0	0	0	0	0	0	0	0	29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1136	0	0	0	0	0	29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-2]	
+seq1300	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	29	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq1344	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	29	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	
+seq1345	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-4]	
+seq1500	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	29	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq1501	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	29	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq1516	0	0	0	0	0	0	0	0	29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1034	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+seq1091	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq1204	0	0	0	0	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1520	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq1521	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1523	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq1524	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+seq1536	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+seq852	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae		
+seq1241	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1319	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq1544	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Dubosiella	
+seq1545	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1281	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq1556	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1557	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales			
+seq1558	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1559	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales			
+seq1560	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1567	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1577	0	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq1578	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq767	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq926	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq1304	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	6	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1585	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae		
+seq1586	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1587	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	
+seq1588	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillales_[F-1]	Lactobacillales_[G-1]	
+seq1589	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-3]	
+seq1594	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria						
+seq1595	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1599	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq730	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1417	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq1609	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae		
+seq1610	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1611	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1612	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1613	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq1614	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+seq1620	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1621	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq1628	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1630	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq627	0	0	0	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq761	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq1236	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+seq1636	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1642	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1269	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq1650	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+seq1651	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-12]	
+seq1652	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-11]	
+seq1653	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1654	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	Bacteria						
+seq1664	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1665	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq1666	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+seq28	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	cereus
+seq1259	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-2]	
+seq1337	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Mollicutes	Mollicutes_[O-2]	Mollicutes_[F-2]	Mollicutes_[G-2]	
+seq1672	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1673	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq1685	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Erysipelotrichaceae_[G-1]	
+seq862	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+seq1299	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	14	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+seq1693	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	
+seq1694	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales			
+seq1012	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq1356	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli				
+seq1365	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq1705	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq1706	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1720	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-13]	
+seq958	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq1052	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1102	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Eubacteriales_[F-1]	Eubacteriales_[G-3]	
+seq1346	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq1724	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	7	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq1725	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1726	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1746	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq815	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq1328	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+seq1342	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq1423	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq1466	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1754	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria						
+seq1755	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-3]	
+seq1759	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1764	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-3]	
+seq1765	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-11]	
+seq1766	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1629	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Rodentibacter	heylii
+seq1770	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq1774	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Dubosiella	
+seq1775	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq1784	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1785	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1786	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq1787	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1788	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-2]	
+seq498	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq911	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1795	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1796	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq1797	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq1798	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq1799	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq1800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+seq1802	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq1803	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq1813	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	
+seq1815	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-2]	
+seq1164	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq1228	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq1699	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1823	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1824	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+seq1830	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1833	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq1835	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq1836	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	
+seq503	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	Bacteria						
+seq933	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq1490	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq1708	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq1844	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1845	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq1846	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1851	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq782	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1854	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1855	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	6	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1856	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1861	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria						
+seq1867	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+seq1868	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria						
+seq1869	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq1870	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq1878	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1879	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales			
+seq1887	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1888	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	
+seq72	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Proteobacteria	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	
+seq131	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq1894	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1900	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+seq1904	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-13]	
+seq1905	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq108	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq1700	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq1707	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq1914	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq1923	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria						
+seq1925	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+seq1926	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq86	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	argenteus/aureus/capitis/caprae/epidermidis/haemolyticus/pasteuri/petrasii/saccharolyticus/simiae/warneri
+seq1729	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq1762	0	0	0	0	0	0	0	0	0	3	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	
+seq1936	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq1074	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq1476	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq1950	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+seq1951	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-14]	
+seq100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	
+seq139	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	
+seq159	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Proteobacteria	Alphaproteobacteria	Hyphomicrobiales	Brucellaceae	Brucella	
+seq991	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+seq1801	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	Bacteria	Bacteroidetes					
+seq1955	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq1963	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+seq1966	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-2]	
+seq1401	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+seq1522	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq1973	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq1974	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	Bacteria	Proteobacteria					
+seq1975	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	
+seq1983	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	
+seq1984	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+seq1893	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+seq1988	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq1989	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+seq1990	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq1993	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae_[G-1]	
+seq1994	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospiraceae_[G-4]	
+seq1995	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Oscillospiraceae_[G-5]	
+seq2004	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+seq2006	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria						
+seq2007	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		
+seq2008	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes					
+seq1827	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae		
+seq2011	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq2014	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+seq2019	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales			
+seq2020	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria						
+seq2021	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Bacteria	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae		

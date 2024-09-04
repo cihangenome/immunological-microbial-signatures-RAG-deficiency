@@ -1,0 +1,40 @@
+SampleID	TypeofSample	Study	SubjectID	AgeInWeeks	Stage	Sex	Group	Genotype	Cage	Mouse	Fecal.samples.at.3.weeks	Fecal.samples.at.5.weeks	Fecal.samples.at.10.weeks	Fecal.samples.at.14.weeks	ForwardFastqFile	ReverseFastqFile
+1at14w	fecal	timecourse	1	14	none	female	wild-type Female	LRF WT(control)	789776	RP	1 - 3 w	1 - 5 w	1 - 10 w	1 - 14 w	1at14w_S59_R1_trim.fastq	1at14w_S59_R2_trim.fastq
+1at10w	fecal	timecourse	1	10	none	female	wild-type Female	LRF WT(control)	789776	RP	1 - 3 w	1 - 5 w	1 - 10 w	1 - 14 w	1at10w_S39_R1_trim.fastq	1at10w_S39_R2_trim.fastq
+1at3w	fecal	timecourse	1	3	none	female	wild-type Female	LRF WT(control)	789776	RP	1 - 3 w	1 - 5 w	1 - 10 w	1 - 14 w	1at3w_S1_R1_trim.fastq	1at3w_S1_R2_trim.fastq
+1at5w	fecal	timecourse	1	5	none	female	wild-type Female	LRF WT(control)	789776	RP	1 - 3 w	1 - 5 w	1 - 10 w	1 - 14 w	1at5w_S20_R1_trim.fastq	1at5w_S20_R2_trim.fastq
+2at10w	fecal	timecourse	2	10	none	female	wild-type Female	LRF WT(control)	789776	LP	2 - 3 w	2 - 5 w	2 - 10 w	2 - 14 w	2at10w_S40_R1_trim.fastq	2at10w_S40_R2_trim.fastq
+2at14w	fecal	timecourse	2	14	none	female	wild-type Female	LRF WT(control)	789776	LP	2 - 3 w	2 - 5 w	2 - 10 w	2 - 14 w	2at14w_S60_R1_trim.fastq	2at14w_S60_R2_trim.fastq
+2at3w	fecal	timecourse	2	3	none	female	wild-type Female	LRF WT(control)	789776	LP	2 - 3 w	2 - 5 w	2 - 10 w	2 - 14 w	2at3w_S2_R1_trim.fastq	2at3w_S2_R2_trim.fastq
+2at5w	fecal	timecourse	2	5	none	female	wild-type Female	LRF WT(control)	789776	LP	2 - 3 w	2 - 5 w	2 - 10 w	2 - 14 w	2at5w_S21_R1_trim.fastq	2at5w_S21_R2_trim.fastq
+3at5w	fecal	timecourse	3	5	none	female	wild-type Female	LRF WT(control)	789776	1R/2L	3 - 3 w	3 - 5 w	3 - 10 w	3 - 14 w	3at5w_S22_R1_trim.fastq	3at5w_S22_R2_trim.fastq
+3at10w	fecal	timecourse	3	10	none	female	wild-type Female	LRF WT(control)	789776	1R/2L	3 - 3 w	3 - 5 w	3 - 10 w	3 - 14 w	3at10w_S41_R1_trim.fastq	3at10w_S41_R2_trim.fastq
+3at14w	fecal	timecourse	3	14	none	female	wild-type Female	LRF WT(control)	789776	1R/2L	3 - 3 w	3 - 5 w	3 - 10 w	3 - 14 w	3at14w_S61_R1_trim.fastq	3at14w_S61_R2_trim.fastq
+3at3w	fecal	timecourse	3	3	none	female	wild-type Female	LRF WT(control)	789776	1R/2L	3 - 3 w	3 - 5 w	3 - 10 w	3 - 14 w	3at3w_S3_R1_trim.fastq	3at3w_S3_R2_trim.fastq
+4at5w	fecal	timecourse	4	5	none	female	wild-type Female	LRF WT(control)	796785	RP	4 - 3 w	4 - 5 w	4 - 10 w	4 - 14 w	4at5w_S23_R1_trim.fastq	4at5w_S23_R2_trim.fastq
+4at10w	fecal	timecourse	4	10	none	female	wild-type Female	LRF WT(control)	796785	RP	4 - 3 w	4 - 5 w	4 - 10 w	4 - 14 w	4at10w_S42_R1_trim.fastq	4at10w_S42_R2_trim.fastq
+4at14w	fecal	timecourse	4	14	none	female	wild-type Female	LRF WT(control)	796785	RP	4 - 3 w	4 - 5 w	4 - 10 w	4 - 14 w	4at14w_S62_R1_trim.fastq	4at14w_S62_R2_trim.fastq
+4at3w	fecal	timecourse	4	3	none	female	wild-type Female	LRF WT(control)	796785	RP	4 - 3 w	4 - 5 w	4 - 10 w	4 - 14 w	4at3w_S4_R1_trim.fastq	4at3w_S4_R2_trim.fastq
+5at10w	fecal	timecourse	5	10	none	female	wild-type Female	LRF WT(control)	796785	2RP	5 - 3 w	5 - 5 w	5 - 10 w	5 - 14 w	5at10w_S43_R1_trim.fastq	5at10w_S43_R2_trim.fastq
+5at14w	fecal	timecourse	5	14	none	female	wild-type Female	LRF WT(control)	796785	2RP	5 - 3 w	5 - 5 w	5 - 10 w	5 - 14 w	5at14w_S63_R1_trim.fastq	5at14w_S63_R2_trim.fastq
+5at3w	fecal	timecourse	5	3	none	female	wild-type Female	LRF WT(control)	796785	2RP	5 - 3 w	5 - 5 w	5 - 10 w	5 - 14 w	5at3w_S5_R1_trim.fastq	5at3w_S5_R2_trim.fastq
+5at5w	fecal	timecourse	5	5	none	female	wild-type Female	LRF WT(control)	796785	2RP	5 - 3 w	5 - 5 w	5 - 10 w	5 - 14 w	5at5w_S24_R1_trim.fastq	5at5w_S24_R2_trim.fastq
+10at3w	fecal	timecourse	10	3	none	female	W/W Female	W/W mutant	758179	RP (2RP in timecourse)	10 - 3 w	10 - 5 w	not available	10 - 14 w	10at3w_S10_R1_trim.fastq	10at3w_S10_R2_trim.fastq
+10at14w	fecal	timecourse	10	14	none	female	W/W Female	W/W mutant	758179	RP (2RP in timecourse)	10 - 3 w	10 - 5 w	not available	10 - 14 w	10at14w_S67_R1_trim.fastq	10at14w_S67_R2_trim.fastq
+10at5w	fecal	timecourse	10	5	none	female	W/W Female	W/W mutant	758179	RP (2RP in timecourse)	10 - 3 w	10 - 5 w	not available	10 - 14 w	10at5w_S29_R1_trim.fastq	10at5w_S29_R2_trim.fastq
+11at10w	fecal	timecourse	11	10	none	female	W/W Female	W/W mutant	758179	LP	11 - 3 w	11 - 5 w	11 - 10 w	11 - 14 w	11at10w_S47_R1_trim.fastq	11at10w_S47_R2_trim.fastq
+11at14w	fecal	timecourse	11	14	none	female	W/W Female	W/W mutant	758179	LP	11 - 3 w	11 - 5 w	11 - 10 w	11 - 14 w	11at14w_S68_R1_trim.fastq	11at14w_S68_R2_trim.fastq
+11at3w	fecal	timecourse	11	3	none	female	W/W Female	W/W mutant	758179	LP	11 - 3 w	11 - 5 w	11 - 10 w	11 - 14 w	11at3w_S11_R1_trim.fastq	11at3w_S11_R2_trim.fastq
+11at5w	fecal	timecourse	11	5	none	female	W/W Female	W/W mutant	758179	LP	11 - 3 w	11 - 5 w	11 - 10 w	11 - 14 w	11at5w_S30_R1_trim.fastq	11at5w_S30_R2_trim.fastq
+12at3w	fecal	timecourse	12	3	none	female	W/W Female	W/W mutant	758181	LP	12 - 3 w	12 - 5 w	12 - 10 w	12 - 14 w	12at3w_S12_R1_trim.fastq	12at3w_S12_R2_trim.fastq
+12at10w	fecal	timecourse	12	10	none	female	W/W Female	W/W mutant	758181	LP	12 - 3 w	12 - 5 w	12 - 10 w	12 - 14 w	12at10w_S48_R1_trim.fastq	12at10w_S48_R2_trim.fastq
+12at14w	fecal	timecourse	12	14	none	female	W/W Female	W/W mutant	758181	LP	12 - 3 w	12 - 5 w	12 - 10 w	12 - 14 w	12at14w_S69_R1_trim.fastq	12at14w_S69_R2_trim.fastq
+12at5w	fecal	timecourse	12	5	none	female	W/W Female	W/W mutant	758181	LP	12 - 3 w	12 - 5 w	12 - 10 w	12 - 14 w	12at5w_S31_R1_trim.fastq	12at5w_S31_R2_trim.fastq
+13at5w	fecal	timecourse	13	5	none	female	W/W Female	W/W mutant	758181	RP	13 - 3 w	13 - 5 w	13 - 10 w	13 - 14 w	13at5w_S32_R1_trim.fastq	13at5w_S32_R2_trim.fastq
+13at10w	fecal	timecourse	13	10	none	female	W/W Female	W/W mutant	758181	RP	13 - 3 w	13 - 5 w	13 - 10 w	13 - 14 w	13at10w_S49_R1_trim.fastq	13at10w_S49_R2_trim.fastq
+13at14w	fecal	timecourse	13	14	none	female	W/W Female	W/W mutant	758181	RP	13 - 3 w	13 - 5 w	13 - 10 w	13 - 14 w	13at14w_S70_R1_trim.fastq	13at14w_S70_R2_trim.fastq
+13at3w	fecal	timecourse	13	3	none	female	W/W Female	W/W mutant	758181	RP	13 - 3 w	13 - 5 w	13 - 10 w	13 - 14 w	13at3w_S13_R1_trim.fastq	13at3w_S13_R2_trim.fastq
+14at10w	fecal	timecourse	14	10	none	female	W/W Female	W/W mutant	758181	2L	14 - 3 w	14 - 5 w	14 - 10 w	14 - 14 w	14at10w_S50_R1_trim.fastq	14at10w_S50_R2_trim.fastq
+14at14w	fecal	timecourse	14	14	none	female	W/W Female	W/W mutant	758181	2L	14 - 3 w	14 - 5 w	14 - 10 w	14 - 14 w	14at14w_S71_R1_trim.fastq	14at14w_S71_R2_trim.fastq
+14at3w	fecal	timecourse	14	3	none	female	W/W Female	W/W mutant	758181	2L	14 - 3 w	14 - 5 w	14 - 10 w	14 - 14 w	14at3w_S14_R1_trim.fastq	14at3w_S14_R2_trim.fastq
+14at5w	fecal	timecourse	14	5	none	female	W/W Female	W/W mutant	758181	2L	14 - 3 w	14 - 5 w	14 - 10 w	14 - 14 w	14at5w_S33_R1_trim.fastq	14at5w_S33_R2_trim.fastq
