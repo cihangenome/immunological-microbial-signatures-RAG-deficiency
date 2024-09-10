@@ -1,42 +1,42 @@
-SampleID	LabID	SampleType	PhenoType	PhenoTypeDTL	HouseHoldID	Gender	AgeRange	Ethnicity	GeoRegion	Enteropathy	GID.Study	GID	Antibiotics	IVIG	Meds	Diet	Study.Batch	SppRichness	Evenness	NumbReads	Shannon	InvSimpson	chao1
-FP_3	CIMP0049	CTRL	CTRL	CTRL	HH47.HH48	M	Adult	Caucasian	USA, NY	no	Both	None	None	none	none	modified	currentStudy	99	0.85	27867	3.92	33.12	99
-FP_4	CIMP0050	CTRL	CTRL	CTRL	HH47.HH48	F	Adult	Caucasian	USA, NY	no	Both	None	Single	none	none	standard	currentStudy	82	0.86	27429	3.78	29.67	82
-FP_5	CIMP0062	CTRL	CTRL	CTRL	HH47.HH48	F	Adult	Caucasian	USA, NY	no	Both	None	Single	none	none	modified	currentStudy	87	0.81	31970	3.62	21.8	87
-FP_6	CIMP0061	CTRL	CTRL	CTRL	HH47.HH48	F	Child	Caucasian	USA, NY	no	Both	None	None	none	none	standard	currentStudy	60	0.82	26234	3.37	17.81	60
-FP_7	HD140	CTRL	CTRL	CTRL	HH-CTRL	M	Adult				Both	None	None				currentStudy	54	0.81	24965	3.22	16.1	54
-FP_8	HD156	CTRL	CTRL	CTRL	HH-CTRL	F	Adult				Both	None	None				currentStudy	72	0.83	34796	3.54	22.27	72
-FP_9	HD241	CTRL	CTRL	CTRL	HH-CTRL	F	Adult				Both	None	None				currentStudy	73	0.8	28556	3.41	20.11	73
-FP_10	NIHPID0134 - JH	RAG	CID	CID	HH134	F	Adult	Caucasian	USA, VA	yes	Yes	Active	Single	recent	meds	standard	currentStudy	10	0.51	10095	1.17	2.7	10
-FP_11	HG	CTRL	CTRL	CTRL	HH134	M	Adult	Caucasian	USA, VA	no	Yes	None	None	none	none	standard	currentStudy	69	0.83	27901	3.49	23.32	69
-FP_13	MA (CID-151-BY)	RAG	CID	CID	HH-RAG	M	Adult	Caucasian	Belarus	no	No	None	None	current		standard	currentStudy	45	0.8	28622	3.05	13.85	45
-FP_14	NIHPID100	RAG	CID	CID-G/AI	HH100	F	Adult	Caucasian	USA, KY	no	No	Inactive	Single	recent	meds	standard	currentStudy	66	0.73	28804	3.07	10.58	66
-FP_15	NIHHV005	CTRL	CTRL	CTRL	HH100	M	Adult	Caucasian	USA, KY	no	No	None	None	none	meds	standard	currentStudy	28	0.67	19187	2.24	5.2	28
-FP_16	OD0235	CTRL	CTRL	CTRL	HH19.HH79	M	Child	Arabic	UAE	no	Both	None	None	none	none	standard	currentStudy	64	0.8	26474	3.33	15.63	64
-FP_17	NIHPID0019	RAG	LS	LS	HH19.HH79	F	Child	Arabic	UAE	no	No	Inactive	Multiple	recent	meds	standard	PrevStudy	44	0.8	25968	3.01	13.78	44
-FP_18	NIHPID0079 - ASR	RAG	CID	CID	HH19.HH79	M	Child	Arabic	UAE	yes	Yes	Active	None	none	meds	standard	currentStudy	98	0.8	85077	3.67	26.23	98
-FP_19	CID-153-IT	RAG	CID	CID-AI	HH153	M	Child	Arabic	Italy	yes	Yes	Active	Multiple	recent	meds	modified	currentStudy	55	0.81	20546	3.25	16.96	55
-FP_20	YS	CTRL	CTRL	CTRL	HH153	F	Child	Arabic	Italy	no	Yes	None	None	none	none	standard	currentStudy	62	0.64	26417	2.63	6.96	62
-FP_22	IB	CTRL	CTRL	CTRL	HH511	F	Adult	Caucasian	Italy	no	Yes	None	None	none	none	standard	currentStudy	67	0.8	28703	3.38	18.09	67
-FP_24	ctrl OD0261	CTRL	CTRL	CTRL	HH261	F	Adult	Caucasian	Portugal	no	Yes	None	None	none	meds	standard	currentStudy	86	0.83	24450	3.7	24.97	86
-FP_27	Brother MS	CTRL	CTRL	CTRL	HH509	M	Child	Caucasian	Turkey	no	No	None	None	none	none	standard	currentStudy	81	0.76	30307	3.34	17.39	81
-FP_28	Father MS	CTRL	CTRL	CTRL	HH509	M	Adult	Caucasian	Turkey	no	No	None	None	none	none	standard	currentStudy	77	0.74	30255	3.2	11.48	77
-FP_29	Mother MS	CTRL	CTRL	CTRL	HH509	F	Adult	Caucasian	Turkey	no	No	None	None	none	none	standard	currentStudy	91	0.82	33048	3.68	27.56	91
-FP_30	Sister AB	CTRL	CTRL	CTRL	HH510	F	Child	Caucasian	Turkey	no	No	None	None	none	none	standard	currentStudy	69	0.79	35025	3.36	16.45	69
-FP_31	Father AB	CTRL	CTRL	CTRL	HH510	M	Adult	Caucasian	Turkey	no	No	None	None	none	none	standard	currentStudy	42	0.78	29925	2.9	12.53	42
-FP_32	Mother AB	CTRL	CTRL	CTRL	HH510	F	Adult	Caucasian	Turkey	no	No	None	None	none	none	standard	currentStudy	69	0.73	33708	3.07	11.06	69
-FP_33	NIHPID0128	RAG	CID	CID-AI	HH-RAG	F	Adult	Caucasian	USA, FL		Yes	Active	Multiple	recent	meds	standard	PrevStudy	20	0.44	21295	1.31	2.4	20
-FP_34	NIHPID0109	RAG	CID	CID-AI	HH109	M	Child	Hispanic	Peru		Yes	Active	Single	recent	meds	standard	PrevStudy	29	0.65	25099	2.2	6.27	29
-FP_35	NIHPID0109R3	CTRL	CTRL	CTRL	HH109	F	Child	Hispanic	Peru		Yes	None	None				PrevStudy	54	0.71	23951	2.82	8.42	54
-FP_36	NIHPID0109R1	CTRL	CTRL	CTRL	HH109	F	Adult	Hispanic	Peru		Yes	None	None				PrevStudy	56	0.78	16560	3.12	12.72	56
-FP_37	CID-148-BY	RAG	LS	LS	HH-RAG	M	Child	Caucasian	Belarus		No	Inactive	None	recent	meds		PrevStudy	21	0.61	22268	1.85	3.51	21
-FP_38	NIHPID0019	RAG	LS	LS	HH-RAG	F	Child	Arabic	UAE		No	None	Multiple	recent	meds	standard	PrevStudy	41	0.71	21227	2.64	8.77	41
-FP_39	NIHPID0021pt	RAG	CID	CID-G	HH-RAG	M	Adult	Caucasian	USA, GA		No	None	Single	recent	meds	standard	PrevStudy	46	0.69	28345	2.64	7.29	46
-FP_40	BSI02946	RAG	CID	CID-G/AI	HH-RAG	M	Adult	Caucasian	USA, SC		No	None	Multiple	current	meds	standard	PrevStudy	32	0.68	25203	2.36	5.73	32
-FP_41	NIHPID0049	RAG	CID	CID-AI	HH-RAG	F	Child	Asian	USA, CO		No	None	Multiple	current	meds	standard	PrevStudy	23	0.76	28134	2.37	6.68	23
-FP_42	NIHPID0100	RAG	CID	CID-G/AI	HH-RAG	F	Adult	Caucasian	USA, KY		No	Inactive	Single	none	meds	standard	PrevStudy	42	0.77	17073	2.87	9.31	42
-FP_43	NIHPID0048	RAG	CID	CID	HH-RAG	M	Child	Black	USA, FL		No	Inactive	Single	current	meds	standard	PrevStudy	92	0.85	28993	3.85	33.01	92
-FP_44	NIHPID0048	CTRL	CTRL	CTRL	HH-48R3	M	Child	Black	USA, FL	no	Both	None	None	none	none	standard	NewBatch	22	0.6	29478	1.87	3.48	22
-FP_45	NIHPID0048	RAG	CID	CID-AI	HH-48R3	M	Child	Black	USA, FL		Yes	Active	Single	current	meds	standard	NewBatch	31	0.76	32078	2.6	8.74	31
-FP_47	NIHPID0021	RAG	CID	CID-G	HH-0021	M	Adult	Caucasian	USA, GA		Both	None	Single	recent	meds	standard	PrevStudy	34	0.83	35402	2.92	12.51	34
-FP_48	NIHPID0153	RAG	CID	CID-AI	HH-153	M	Adult	Caucasian	Serbia	no	Yes	Active	Multiple	current	meds		NewBatch	31	0.69	61430	2.35	6.08	31
-FP_49	NIHPID0153	CTRL	CTRL	CTRL	HH-153	F	Adult	Caucasian	Serbia	no	Both	None	None	none	none	standard	NewBatch	32	0.84	35060	2.9	13.59	32
+SampleID	SampleType	PhenoType	PhenoTypeDTL	HouseHoldID	Gender	AgeRange	Ethnicity	GeoRegion	Enteropathy	GID.Study	GID	Antibiotics	IVIG	Meds	Diet	SppRichness	Evenness	NumbReads	Shannon	InvSimpson	chao1
+FP_3	CTRL	CTRL	CTRL	HH47.HH48	M	Adult	Caucasian	"USA, NY"	no	Both	None	None	none	none	modified	99	0.85	27867	3.92	33.12	99
+FP_4	CTRL	CTRL	CTRL	HH47.HH48	F	Adult	Caucasian	"USA, NY"	no	Both	None	Single	none	none	standard	82	0.86	27429	3.78	29.67	82
+FP_5	CTRL	CTRL	CTRL	HH47.HH48	F	Adult	Caucasian	"USA, NY"	no	Both	None	Single	none	none	modified	87	0.81	31970	3.62	21.8	87
+FP_6	CTRL	CTRL	CTRL	HH47.HH48	F	Child	Caucasian	"USA, NY"	no	Both	None	None	none	none	standard	60	0.82	26234	3.37	17.81	60
+FP_7	CTRL	CTRL	CTRL	HH-CTRL	M	Adult				Both	None	None				54	0.81	24965	3.22	16.1	54
+FP_8	CTRL	CTRL	CTRL	HH-CTRL	F	Adult				Both	None	None				72	0.83	34796	3.54	22.27	72
+FP_9	CTRL	CTRL	CTRL	HH-CTRL	F	Adult				Both	None	None				73	0.8	28556	3.41	20.11	73
+FP_10	RAG	CID	CID	HH134	F	Adult	Caucasian	"USA, VA"	yes	Yes	Active	Single	recent	meds	standard	10	0.51	10095	1.17	2.7	10
+FP_11	CTRL	CTRL	CTRL	HH134	M	Adult	Caucasian	"USA, VA"	no	Yes	None	None	none	none	standard	69	0.83	27901	3.49	23.32	69
+FP_13	RAG	CID	CID	HH-RAG	M	Adult	Caucasian	Belarus	no	No	None	None	current		standard	45	0.8	28622	3.05	13.85	45
+FP_14	RAG	CID	CID-G/AI	HH100	F	Adult	Caucasian	"USA, KY"	no	No	Inactive	Single	recent	meds	standard	66	0.73	28804	3.07	10.58	66
+FP_15	CTRL	CTRL	CTRL	HH100	M	Adult	Caucasian	"USA, KY"	no	No	None	None	none	meds	standard	28	0.67	19187	2.24	5.2	28
+FP_16	CTRL	CTRL	CTRL	HH19.HH79	M	Child	Arabic	UAE	no	Both	None	None	none	none	standard	64	0.8	26474	3.33	15.63	64
+FP_17	RAG	LS	LS	HH19.HH79	F	Child	Arabic	UAE	no	No	Inactive	Multiple	recent	meds	standard	44	0.8	25968	3.01	13.78	44
+FP_18	RAG	CID	CID	HH19.HH79	M	Child	Arabic	UAE	yes	Yes	Active	None	none	meds	standard	98	0.8	85077	3.67	26.23	98
+FP_19	RAG	CID	CID-AI	HH153	M	Child	Arabic	Italy	yes	Yes	Active	Multiple	recent	meds	modified	55	0.81	20546	3.25	16.96	55
+FP_20	CTRL	CTRL	CTRL	HH153	F	Child	Arabic	Italy	no	Yes	None	None	none	none	standard	62	0.64	26417	2.63	6.96	62
+FP_22	CTRL	CTRL	CTRL	HH511	F	Adult	Caucasian	Italy	no	Yes	None	None	none	none	standard	67	0.8	28703	3.38	18.09	67
+FP_24	CTRL	CTRL	CTRL	HH261	F	Adult	Caucasian	Portugal	no	Yes	None	None	none	meds	standard	86	0.83	24450	3.7	24.97	86
+FP_27	CTRL	CTRL	CTRL	HH509	M	Child	Caucasian	Turkey	no	No	None	None	none	none	standard	81	0.76	30307	3.34	17.39	81
+FP_28	CTRL	CTRL	CTRL	HH509	M	Adult	Caucasian	Turkey	no	No	None	None	none	none	standard	77	0.74	30255	3.2	11.48	77
+FP_29	CTRL	CTRL	CTRL	HH509	F	Adult	Caucasian	Turkey	no	No	None	None	none	none	standard	91	0.82	33048	3.68	27.56	91
+FP_30	CTRL	CTRL	CTRL	HH510	F	Child	Caucasian	Turkey	no	No	None	None	none	none	standard	69	0.79	35025	3.36	16.45	69
+FP_31	CTRL	CTRL	CTRL	HH510	M	Adult	Caucasian	Turkey	no	No	None	None	none	none	standard	42	0.78	29925	2.9	12.53	42
+FP_32	CTRL	CTRL	CTRL	HH510	F	Adult	Caucasian	Turkey	no	No	None	None	none	none	standard	69	0.73	33708	3.07	11.06	69
+FP_33	RAG	CID	CID-AI	HH-RAG	F	Adult	Caucasian	"USA, FL"		Yes	Active	Multiple	recent	meds	standard	20	0.44	21295	1.31	2.4	20
+FP_34	RAG	CID	CID-AI	HH109	M	Child	Hispanic	Peru		Yes	Active	Single	recent	meds	standard	29	0.65	25099	2.2	6.27	29
+FP_35	CTRL	CTRL	CTRL	HH109	F	Child	Hispanic	Peru		Yes	None	None				54	0.71	23951	2.82	8.42	54
+FP_36	CTRL	CTRL	CTRL	HH109	F	Adult	Hispanic	Peru		Yes	None	None				56	0.78	16560	3.12	12.72	56
+FP_37	RAG	LS	LS	HH-RAG	M	Child	Caucasian	Belarus		No	Inactive	None	recent	meds		21	0.61	22268	1.85	3.51	21
+FP_38	RAG	LS	LS	HH-RAG	F	Child	Arabic	UAE		No	None	Multiple	recent	meds	standard	41	0.71	21227	2.64	8.77	41
+FP_39	RAG	CID	CID-G	HH-RAG	M	Adult	Caucasian	"USA, GA"		No	None	Single	recent	meds	standard	46	0.69	28345	2.64	7.29	46
+FP_40	RAG	CID	CID-G/AI	HH-RAG	M	Adult	Caucasian	"USA, SC"		No	None	Multiple	current	meds	standard	32	0.68	25203	2.36	5.73	32
+FP_41	RAG	CID	CID-AI	HH-RAG	F	Child	Asian	"USA, CO"		No	None	Multiple	current	meds	standard	23	0.76	28134	2.37	6.68	23
+FP_42	RAG	CID	CID-G/AI	HH-RAG	F	Adult	Caucasian	"USA, KY"		No	Inactive	Single	none	meds	standard	42	0.77	17073	2.87	9.31	42
+FP_43	RAG	CID	CID	HH-RAG	M	Child	Black	"USA, FL"		No	Inactive	Single	current	meds	standard	92	0.85	28993	3.85	33.01	92
+FP_44	CTRL	CTRL	CTRL	HH-48R3	M	Child	Black	"USA, FL"	no	Both	None	None	none	none	standard	22	0.6	29478	1.87	3.48	22
+FP_45	RAG	CID	CID-AI	HH-48R3	M	Child	Black	"USA, FL"		Yes	Active	Single	current	meds	standard	31	0.76	32078	2.6	8.74	31
+FP_47	RAG	CID	CID-G	HH-0021	M	Adult	Caucasian	"USA, GA"		Both	None	Single	recent	meds	standard	34	0.83	35402	2.92	12.51	34
+FP_48	RAG	CID	CID-AI	HH-153	M	Adult	Caucasian	Serbia	no	Yes	Active	Multiple	current	meds		31	0.69	61430	2.35	6.08	31
+FP_49	CTRL	CTRL	CTRL	HH-153	F	Adult	Caucasian	Serbia	no	Both	None	None	none	none	standard	32	0.84	35060	2.9	13.59	32
