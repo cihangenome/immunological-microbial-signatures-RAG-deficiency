@@ -20,10 +20,10 @@ library(SingleCellExperiment)
 library(ggpubr)
 
 
-matrix_dir_HTO="./HTO_counts_rep4/"
-barcode.path <- paste0(matrix_dir_HTO, "barcodes.tsv")
-features.path <- paste0(matrix_dir_HTO, "features.tsv")
-matrix.path <- paste0(matrix_dir_HTO, "matrix.mtx")
+matrix_dir_rep4="./HTO_counts_rep4/"
+barcode.path <- paste0(matrix_dir_rep4, "barcodes.tsv")
+features.path <- paste0(matrix_dir_rep4, "features.tsv")
+matrix.path <- paste0(matrix_dir_rep4, "matrix.mtx")
 mat <- readMM(file = matrix.path)
 feature.names = read.delim(features.path, header = FALSE, stringsAsFactors = FALSE)
 barcode.names = read.delim(barcode.path, header = FALSE, stringsAsFactors = FALSE)
