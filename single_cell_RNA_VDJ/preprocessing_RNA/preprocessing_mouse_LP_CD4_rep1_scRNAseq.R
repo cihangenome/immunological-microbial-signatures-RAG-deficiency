@@ -20,29 +20,6 @@ library(ggthemes)
 library(SingleCellExperiment)
 library(ggpubr)
 
-
-#setwd("current_directory")
-
-library(dplyr)
-library(Seurat)
-library(patchwork)
-library(scran)
-
-library(scDblFinder)
-
-library(Matrix)
-library(writexl)
-library(readxl)
-
-library(scater)
-library(loomR)
-library(destiny)
-library(ggplot2)
-library(ggthemes)
-library(SingleCellExperiment)
-library(ggpubr)
-
-
 matrix_dir_rep1="./HTO_counts_rep1/"
 barcode.path <- paste0(matrix_dir_rep1, "barcodes.tsv")
 features.path <- paste0(matrix_dir_rep1, "features.tsv")
