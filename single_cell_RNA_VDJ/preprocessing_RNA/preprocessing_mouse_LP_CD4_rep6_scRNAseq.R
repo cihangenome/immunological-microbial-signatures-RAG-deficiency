@@ -20,10 +20,10 @@ library(SingleCellExperiment)
 library(ggpubr)
 
 
-matrix_dir_HTO="./HTO_counts_rep6/"
-barcode.path <- paste0(matrix_dir_HTO, "barcodes.tsv")
-features.path <- paste0(matrix_dir_HTO, "features.tsv")
-matrix.path <- paste0(matrix_dir_HTO, "matrix.mtx")
+matrix_dir_rep6="./HTO_counts_rep6/"
+barcode.path <- paste0(matrix_dir_rep6, "barcodes.tsv")
+features.path <- paste0(matrix_dir_rep6, "features.tsv")
+matrix.path <- paste0(matrix_dir_rep6, "matrix.mtx")
 mat <- readMM(file = matrix.path)
 feature.names = read.delim(features.path, header = FALSE, stringsAsFactors = FALSE)
 barcode.names = read.delim(barcode.path, header = FALSE, stringsAsFactors = FALSE)
@@ -84,10 +84,6 @@ ind_outliers_LP_CD4_rep6<-which(ind_outliers_LP_CD4_rep6=="TRUE")
 
 
 LP_CD4_rep6_sc <- LP_CD4_rep6_sc[,-ind_outliers_LP_CD4_rep6]
-
-plot1 <- FeatureScatter(LP_CD4_rep6, feature1 = "nCount_RNA", feature2 = "percent.mt",group.by="orig.ident")
-plot2 <- FeatureScatter(LP_CD4_rep6, feature1 = "nCount_RNA", feature2 = "nFeature_RNA",group.by="orig.ident")
-CombinePlots(plots = list(plot1, plot2))
 
 LP_CD4_rep6 <- subset(LP_CD4_rep6, cells=LP_CD4_rep6_sc@colData@rownames)
 
